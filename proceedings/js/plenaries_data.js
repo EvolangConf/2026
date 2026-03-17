@@ -10,7 +10,7 @@ var plenariesData = {
         "image": "lupyan.png",
         "date": "Wednesday, 8 April 2026",
         "time": "09:15",
-        "location": "Concert Hall (300)"
+        "location": "Concert Hall"
     },
     "slocombe": {
         "name": "Katie Slocombe",
@@ -23,7 +23,7 @@ var plenariesData = {
         "image": "slocombe.png",
         "date": "Thursday, 9 April 2026",
         "time": "09:00",
-        "location": "Concert Hall (300)"
+        "location": "Concert Hall"
     },
     "treves": {
         "name": "Alessandro Treves",
@@ -36,7 +36,7 @@ var plenariesData = {
         "image": "treves.png",
         "date": "Friday, 10 April 2026",
         "time": "14:00",
-        "location": "Concert Hall (300)"
+        "location": "Concert Hall"
     },
     "friederici": {
         "name": "Angela Friederici",
@@ -49,6 +49,6 @@ var plenariesData = {
         "image": "friederici.png",
         "date": "Friday, 10 April 2026",
         "time": "09:00",
-        "location": "Concert Hall (300)"
+        "location": "Concert Hall"
     }
 }

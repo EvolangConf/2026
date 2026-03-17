@@ -35,7 +35,7 @@ var scheduleData = [
                 "event": "Official welcome",
                 "talks": null,
                 "url": null,
-                "venue": "Concert Hall (300)",
+                "venue": "Concert Hall",
                 "extra": null
             },
             {
@@ -44,7 +44,7 @@ var scheduleData = [
                 "event": "Plenary \"The cognitive functions of language\" (Gary Lupyan)",
                 "talks": null,
                 "url": "plenary.html?speaker=lupyan",
-                "venue": "Concert Hall (300)",
+                "venue": "Concert Hall",
                 "extra": null
             },
             {
@@ -54,15 +54,15 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "1a \u2013 Concert Hall (300)",
+                            "name": "1a \u2013 Concert Hall",
                             "extra": null
                         },
                         {
-                            "name": "1b \u2013 Large Auditorium (120)",
+                            "name": "1b \u2013 Large Auditorium",
                             "extra": null
                         },
                         {
-                            "name": "1c \u2013 Small Auditorium (80) ",
+                            "name": "1c \u2013 Small Auditorium",
                             "extra": null
                         }
                     ],
@@ -71,7 +71,7 @@ var scheduleData = [
                             "startTime": "10:15",
                             "endTime": "10:45",
                             "papers": [
-                                6,
+                                71,
                                 13,
                                 21
                             ]
@@ -80,7 +80,7 @@ var scheduleData = [
                             "startTime": "10:45",
                             "endTime": "11:15",
                             "papers": [
-                                9,
+                                81,
                                 18,
                                 31
                             ]
@@ -107,15 +107,15 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "2a \u2013 Concert Hall (300)",
+                            "name": "2a \u2013 Concert Hall",
                             "extra": null
                         },
                         {
-                            "name": "2b \u2013 Large Auditorium (120)",
+                            "name": "2b \u2013 Large Auditorium",
                             "extra": null
                         },
                         {
-                            "name": "2c \u2013 Small Auditorium (80) ",
+                            "name": "2c \u2013 Small Auditorium",
                             "extra": null
                         }
                     ],
@@ -169,15 +169,15 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "3a \u2013 Concert Hall (300)",
+                            "name": "3a \u2013 Concert Hall",
                             "extra": null
                         },
                         {
-                            "name": "3b \u2013 Large Auditorium (120)",
+                            "name": "3b \u2013 Large Auditorium",
                             "extra": null
                         },
                         {
-                            "name": "3c \u2013 Small Auditorium (80) ",
+                            "name": "3c \u2013 Small Auditorium",
                             "extra": null
                         }
                     ],
@@ -231,15 +231,15 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "4a \u2013 Concert Hall (300)",
+                            "name": "4a \u2013 Concert Hall",
                             "extra": null
                         },
                         {
-                            "name": "4b \u2013 Large Auditorium (120)",
+                            "name": "4b \u2013 Large Auditorium",
                             "extra": null
                         },
                         {
-                            "name": "4c \u2013 Small Auditorium (80) ",
+                            "name": "4c \u2013 Small Auditorium",
                             "extra": null
                         }
                     ],
@@ -299,7 +299,7 @@ var scheduleData = [
                 "event": "Plenary \"Primate communication and social cognition: Roots of human language?\" (Katie Slocombe)",
                 "talks": null,
                 "url": "plenary.html?speaker=slocombe",
-                "venue": "Concert Hall (300)",
+                "venue": "Concert Hall",
                 "extra": null
             },
             {
@@ -309,15 +309,15 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "5a \u2013 Concert Hall (300)",
+                            "name": "5a \u2013 Concert Hall",
                             "extra": null
                         },
                         {
-                            "name": "5b \u2013 Large Auditorium (120)",
+                            "name": "5b \u2013 Large Auditorium",
                             "extra": null
                         },
                         {
-                            "name": "5c \u2013 Small Auditorium (80) ",
+                            "name": "5c \u2013 Small Auditorium",
                             "extra": null
                         }
                     ],
@@ -336,7 +336,7 @@ var scheduleData = [
                             "endTime": "11:15",
                             "papers": [
                                 58,
-                                87,
+                                null,
                                 45
                             ]
                         }
@@ -362,15 +362,15 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "6a \u2013 Concert Hall (300)",
+                            "name": "6a \u2013 Concert Hall",
                             "extra": null
                         },
                         {
-                            "name": "6b \u2013 Large Auditorium (120)",
+                            "name": "6b \u2013 Large Auditorium",
                             "extra": null
                         },
                         {
-                            "name": "6c \u2013 Small Auditorium (80) ",
+                            "name": "6c \u2013 Small Auditorium",
                             "extra": null
                         }
                     ],
@@ -397,7 +397,7 @@ var scheduleData = [
                             "startTime": "12:45",
                             "endTime": "13:15",
                             "papers": [
-                                null,
+                                23,
                                 91,
                                 136
                             ]
@@ -424,15 +424,15 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "7a \u2013 Concert Hall (300)",
+                            "name": "7a \u2013 Concert Hall",
                             "extra": null
                         },
                         {
-                            "name": "7b \u2013 Large Auditorium (120)",
+                            "name": "7b \u2013 Large Auditorium",
                             "extra": null
                         },
                         {
-                            "name": "7c \u2013 Small Auditorium (80) ",
+                            "name": "7c \u2013 Small Auditorium",
                             "extra": null
                         }
                     ],
@@ -486,15 +486,15 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "8a \u2013 Concert Hall (300)",
+                            "name": "8a \u2013 Concert Hall",
                             "extra": null
                         },
                         {
-                            "name": "8b \u2013 Large Auditorium (120)",
+                            "name": "8b \u2013 Large Auditorium",
                             "extra": null
                         },
                         {
-                            "name": "8c \u2013 Small Auditorium (80) ",
+                            "name": "8c \u2013 Small Auditorium",
                             "extra": null
                         }
                     ],
@@ -503,7 +503,7 @@ var scheduleData = [
                             "startTime": "16:30",
                             "endTime": "17:00",
                             "papers": [
-                                63,
+                                87,
                                 110,
                                 108
                             ]
@@ -523,7 +523,7 @@ var scheduleData = [
                             "papers": [
                                 68,
                                 null,
-                                null
+                                63
                             ]
                         }
                     ]
@@ -554,7 +554,7 @@ var scheduleData = [
                 "event": "Plenary \"Brain basis of language evolution\" (Angela Friederici)",
                 "talks": null,
                 "url": "plenary.html?speaker=friederici",
-                "venue": "Concert Hall (300)",
+                "venue": "Concert Hall",
                 "extra": null
             },
             {
@@ -573,15 +573,15 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "9a \u2013 Concert Hall (300)",
+                            "name": "9a \u2013 Concert Hall",
                             "extra": null
                         },
                         {
-                            "name": "9b \u2013 Large Auditorium (120)",
+                            "name": "9b \u2013 Large Auditorium",
                             "extra": null
                         },
                         {
-                            "name": "9c \u2013 Small Auditorium (80) ",
+                            "name": "9c \u2013 Small Auditorium",
                             "extra": null
                         }
                     ],
@@ -590,7 +590,7 @@ var scheduleData = [
                             "startTime": "10:15",
                             "endTime": "10:45",
                             "papers": [
-                                71,
+                                6,
                                 132,
                                 65
                             ]
@@ -599,7 +599,7 @@ var scheduleData = [
                             "startTime": "10:45",
                             "endTime": "11:15",
                             "papers": [
-                                81,
+                                null,
                                 133,
                                 95
                             ]
@@ -626,15 +626,15 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "10a \u2013 Concert Hall (300)",
+                            "name": "10a \u2013 Concert Hall",
                             "extra": null
                         },
                         {
-                            "name": "10b \u2013 Large Auditorium (120)",
+                            "name": "10b \u2013 Large Auditorium",
                             "extra": null
                         },
                         {
-                            "name": "10c \u2013 Small Auditorium (80) ",
+                            "name": "10c \u2013 Small Auditorium",
                             "extra": null
                         }
                     ],
@@ -643,7 +643,7 @@ var scheduleData = [
                             "startTime": "11:45",
                             "endTime": "12:15",
                             "papers": [
-                                83,
+                                84,
                                 106,
                                 111
                             ]
@@ -652,7 +652,7 @@ var scheduleData = [
                             "startTime": "12:15",
                             "endTime": "12:45",
                             "papers": [
-                                84,
+                                147,
                                 131,
                                 116
                             ]
@@ -661,7 +661,7 @@ var scheduleData = [
                             "startTime": "12:45",
                             "endTime": "13:15",
                             "papers": [
-                                147,
+                                null,
                                 148,
                                 144
                             ]
@@ -687,7 +687,7 @@ var scheduleData = [
                 "event": "Plenary \"Modelling the evolution of syntax\" (Alessandro Treves)",
                 "talks": null,
                 "url": "plenary.html?speaker=treves",
-                "venue": "Concert Hall (300)",
+                "venue": "Concert Hall",
                 "extra": null
             },
             {
@@ -697,15 +697,15 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "11a \u2013 Concert Hall (300)",
+                            "name": "11a \u2013 Concert Hall",
                             "extra": null
                         },
                         {
-                            "name": "11b \u2013 Large Auditorium (120)",
+                            "name": "11b \u2013 Large Auditorium",
                             "extra": null
                         },
                         {
-                            "name": "11c \u2013 Small Auditorium (80) ",
+                            "name": "11c \u2013 Small Auditorium",
                             "extra": null
                         }
                     ],
@@ -724,7 +724,7 @@ var scheduleData = [
                             "endTime": "16:00",
                             "papers": [
                                 120,
-                                23,
+                                143,
                                 27
                             ]
                         },
@@ -733,7 +733,7 @@ var scheduleData = [
                             "endTime": "16:30",
                             "papers": [
                                 121,
-                                143,
+                                null,
                                 59
                             ]
                         }
@@ -759,15 +759,15 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "12a \u2013 Concert Hall (300)",
+                            "name": "12a \u2013 Concert Hall",
                             "extra": null
                         },
                         {
-                            "name": "12b \u2013 Large Auditorium (120)",
+                            "name": "12b \u2013 Large Auditorium",
                             "extra": null
                         },
                         {
-                            "name": "12c \u2013 Small Auditorium (80) ",
+                            "name": "12c \u2013 Small Auditorium",
                             "extra": null
                         }
                     ],
