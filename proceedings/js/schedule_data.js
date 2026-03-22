@@ -692,7 +692,7 @@ var scheduleData = [
             },
             {
                 "startTime": "13:30",
-                "endTime": "14:15",
+                "endTime": "14:30",
                 "event": "Buffet lunch",
                 "talks": null,
                 "url": "https://sites.google.com/york.ac.uk/evolang2026/venue",
@@ -700,8 +700,8 @@ var scheduleData = [
                 "extra": null
             },
             {
-                "startTime": "14:15",
-                "endTime": "15:15",
+                "startTime": "14:30",
+                "endTime": "15:30",
                 "event": "Plenary \"Modelling the evolution of syntax\" (Alessandro Treves)",
                 "talks": null,
                 "url": "plenary.html?speaker=treves",
@@ -709,8 +709,8 @@ var scheduleData = [
                 "extra": null
             },
             {
-                "startTime": "15:15",
-                "endTime": "16:45",
+                "startTime": "15:30",
+                "endTime": "17:00",
                 "event": "Session 11",
                 "talks": {
                     "tracks": [
@@ -729,8 +729,8 @@ var scheduleData = [
                     ],
                     "slots": [
                         {
-                            "startTime": "15:15",
-                            "endTime": "15:45",
+                            "startTime": "15:30",
+                            "endTime": "16:00",
                             "papers": [
                                 108,
                                 132,
@@ -738,8 +738,8 @@ var scheduleData = [
                             ]
                         },
                         {
-                            "startTime": "15:45",
-                            "endTime": "16:15",
+                            "startTime": "16:00",
+                            "endTime": "16:30",
                             "papers": [
                                 122,
                                 133,
@@ -747,8 +747,8 @@ var scheduleData = [
                             ]
                         },
                         {
-                            "startTime": "16:15",
-                            "endTime": "16:45",
+                            "startTime": "16:30",
+                            "endTime": "17:00",
                             "papers": [
                                 148,
                                 70,

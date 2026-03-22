@@ -35,7 +35,7 @@ var plenariesData = {
         "abstract": "TBA",
         "image": "treves.png",
         "date": "Friday, 10 April 2026",
-        "time": "14:15",
+        "time": "14:30",
         "location": "Concert Hall"
     }
 }
