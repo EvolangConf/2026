@@ -158,8 +158,8 @@ var scheduleData = [
                 "endTime": "14:30",
                 "event": "Buffet lunch",
                 "talks": null,
-                "url": null,
-                "venue": "TBA",
+                "url": "https://sites.google.com/york.ac.uk/evolang2026/venue",
+                "venue": "The House of Culture \"Boris Hristov\"",
                 "extra": null
             },
             {
@@ -283,7 +283,7 @@ var scheduleData = [
                 "event": "Poster session",
                 "talks": null,
                 "url": "schedule.html#posters",
-                "venue": "TBA",
+                "venue": "The House of Culture \"Boris Hristov\"",
                 "extra": null
             }
         ]
@@ -413,8 +413,8 @@ var scheduleData = [
                 "endTime": "14:30",
                 "event": "Buffet lunch",
                 "talks": null,
-                "url": null,
-                "venue": "TBA",
+                "url": "https://sites.google.com/york.ac.uk/evolang2026/venue",
+                "venue": "The House of Culture \"Boris Hristov\"",
                 "extra": null
             },
             {
@@ -695,8 +695,8 @@ var scheduleData = [
                 "endTime": "14:15",
                 "event": "Buffet lunch",
                 "talks": null,
-                "url": null,
-                "venue": "TBA",
+                "url": "https://sites.google.com/york.ac.uk/evolang2026/venue",
+                "venue": "The House of Culture \"Boris Hristov\"",
                 "extra": null
             },
             {
