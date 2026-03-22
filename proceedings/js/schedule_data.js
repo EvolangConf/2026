@@ -550,6 +550,15 @@ var scheduleData = [
         "events": [
             {
                 "startTime": "09:00",
+                "endTime": "13:00",
+                "event": "Workshops \u2013 Part II",
+                "talks": null,
+                "url": "https://sites.google.com/york.ac.uk/evolang2026/programme",
+                "venue": "The Ramada Trimontium Hotel",
+                "extra": null
+            },
+            {
+                "startTime": "09:00",
                 "endTime": "11:00",
                 "event": "Session 9",
                 "talks": {
@@ -607,15 +616,6 @@ var scheduleData = [
                     ]
                 },
                 "url": null,
-                "venue": "",
-                "extra": null
-            },
-            {
-                "startTime": "09:00",
-                "endTime": "13:00",
-                "event": "Workshops \u2013 Part II",
-                "talks": null,
-                "url": "https://sites.google.com/york.ac.uk/evolang2026/programme",
                 "venue": "",
                 "extra": null
             },
