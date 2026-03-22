@@ -35,20 +35,7 @@ var plenariesData = {
         "abstract": "TBA",
         "image": "treves.png",
         "date": "Friday, 10 April 2026",
-        "time": "14:00",
-        "location": "Concert Hall"
-    },
-    "friederici": {
-        "name": "Angela Friederici",
-        "title": "Brain basis of language evolution",
-        "url": "https://www.cbs.mpg.de/employees/friederici",
-        "affiliation1": "Max Planck Institute for Human Cognitive and Brain Sciences, Germany",
-        "affiliation2": "",
-        "about": "",
-        "abstract": "TBA",
-        "image": "friederici.png",
-        "date": "Friday, 10 April 2026",
-        "time": "09:00",
+        "time": "14:15",
         "location": "Concert Hall"
     }
 }

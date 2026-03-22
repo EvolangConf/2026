@@ -1,10 +1,6 @@
 var sharedData = {
     "plenarySpeakers": [
         {
-            "name": "Angela Friederici",
-            "id": "friederici"
-        },
-        {
             "name": "Gary Lupyan",
             "id": "lupyan"
         },

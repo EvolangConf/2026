@@ -124,27 +124,27 @@ var scheduleData = [
                             "startTime": "11:45",
                             "endTime": "12:15",
                             "papers": [
-                                33,
+                                87,
                                 10,
-                                7
+                                111
                             ]
                         },
                         {
                             "startTime": "12:15",
                             "endTime": "12:45",
                             "papers": [
-                                34,
+                                67,
                                 14,
-                                49
+                                95
                             ]
                         },
                         {
                             "startTime": "12:45",
                             "endTime": "13:15",
                             "papers": [
-                                35,
+                                68,
                                 43,
-                                51
+                                144
                             ]
                         }
                     ]
@@ -186,8 +186,8 @@ var scheduleData = [
                             "startTime": "14:30",
                             "endTime": "15:00",
                             "papers": [
-                                12,
-                                32,
+                                88,
+                                93,
                                 30
                             ]
                         },
@@ -195,8 +195,8 @@ var scheduleData = [
                             "startTime": "15:00",
                             "endTime": "15:30",
                             "papers": [
-                                28,
-                                57,
+                                116,
+                                100,
                                 90
                             ]
                         },
@@ -204,8 +204,8 @@ var scheduleData = [
                             "startTime": "15:30",
                             "endTime": "16:00",
                             "papers": [
-                                40,
-                                60,
+                                121,
+                                23,
                                 137
                             ]
                         }
@@ -327,7 +327,7 @@ var scheduleData = [
                             "endTime": "10:45",
                             "papers": [
                                 41,
-                                44,
+                                12,
                                 37
                             ]
                         },
@@ -335,8 +335,8 @@ var scheduleData = [
                             "startTime": "10:45",
                             "endTime": "11:15",
                             "papers": [
-                                58,
-                                null,
+                                147,
+                                28,
                                 45
                             ]
                         }
@@ -379,7 +379,7 @@ var scheduleData = [
                             "startTime": "11:45",
                             "endTime": "12:15",
                             "papers": [
-                                93,
+                                32,
                                 79,
                                 64
                             ]
@@ -388,7 +388,7 @@ var scheduleData = [
                             "startTime": "12:15",
                             "endTime": "12:45",
                             "papers": [
-                                100,
+                                57,
                                 85,
                                 135
                             ]
@@ -397,7 +397,7 @@ var scheduleData = [
                             "startTime": "12:45",
                             "endTime": "13:15",
                             "papers": [
-                                23,
+                                149,
                                 91,
                                 136
                             ]
@@ -409,8 +409,8 @@ var scheduleData = [
                 "extra": null
             },
             {
-                "startTime": "13:00",
-                "endTime": "14:00",
+                "startTime": "13:15",
+                "endTime": "14:30",
                 "event": "Buffet lunch",
                 "talks": null,
                 "url": null,
@@ -443,7 +443,7 @@ var scheduleData = [
                             "papers": [
                                 50,
                                 94,
-                                104
+                                131
                             ]
                         },
                         {
@@ -452,7 +452,7 @@ var scheduleData = [
                             "papers": [
                                 61,
                                 96,
-                                113
+                                63
                             ]
                         },
                         {
@@ -461,7 +461,7 @@ var scheduleData = [
                             "papers": [
                                 77,
                                 99,
-                                123
+                                82
                             ]
                         }
                     ]
@@ -503,27 +503,27 @@ var scheduleData = [
                             "startTime": "16:30",
                             "endTime": "17:00",
                             "papers": [
-                                87,
-                                110,
-                                108
+                                33,
+                                139,
+                                119
                             ]
                         },
                         {
                             "startTime": "17:00",
                             "endTime": "17:30",
                             "papers": [
-                                67,
+                                34,
                                 126,
-                                122
+                                129
                             ]
                         },
                         {
                             "startTime": "17:30",
                             "endTime": "18:00",
                             "papers": [
-                                68,
-                                null,
-                                63
+                                35,
+                                142,
+                                143
                             ]
                         }
                     ]
@@ -550,25 +550,7 @@ var scheduleData = [
         "events": [
             {
                 "startTime": "09:00",
-                "endTime": "10:00",
-                "event": "Plenary \"Brain basis of language evolution\" (Angela Friederici)",
-                "talks": null,
-                "url": "plenary.html?speaker=friederici",
-                "venue": "Concert Hall",
-                "extra": null
-            },
-            {
-                "startTime": "09:00",
-                "endTime": "13:00",
-                "event": "Workshops \u2013 Part II",
-                "talks": null,
-                "url": "https://sites.google.com/york.ac.uk/evolang2026/programme",
-                "venue": "",
-                "extra": null
-            },
-            {
-                "startTime": "10:15",
-                "endTime": "11:15",
+                "endTime": "11:00",
                 "event": "Session 9",
                 "talks": {
                     "tracks": [
@@ -587,21 +569,39 @@ var scheduleData = [
                     ],
                     "slots": [
                         {
-                            "startTime": "10:15",
-                            "endTime": "10:45",
+                            "startTime": "09:00",
+                            "endTime": "09:30",
                             "papers": [
-                                6,
-                                132,
-                                65
+                                84,
+                                130,
+                                null
                             ]
                         },
                         {
-                            "startTime": "10:45",
-                            "endTime": "11:15",
+                            "startTime": "09:30",
+                            "endTime": "10:00",
                             "papers": [
+                                110,
+                                17,
+                                null
+                            ]
+                        },
+                        {
+                            "startTime": "10:00",
+                            "endTime": "10:30",
+                            "papers": [
+                                106,
+                                6,
+                                null
+                            ]
+                        },
+                        {
+                            "startTime": "10:30",
+                            "endTime": "11:00",
+                            "papers": [
+                                58,
                                 null,
-                                133,
-                                95
+                                null
                             ]
                         }
                     ]
@@ -611,8 +611,17 @@ var scheduleData = [
                 "extra": null
             },
             {
-                "startTime": "11:15",
-                "endTime": "11:45",
+                "startTime": "09:00",
+                "endTime": "13:00",
+                "event": "Workshops \u2013 Part II",
+                "talks": null,
+                "url": "https://sites.google.com/york.ac.uk/evolang2026/programme",
+                "venue": "",
+                "extra": null
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "11:30",
                 "event": "Coffee break",
                 "talks": null,
                 "url": null,
@@ -620,8 +629,8 @@ var scheduleData = [
                 "extra": null
             },
             {
-                "startTime": "11:45",
-                "endTime": "13:15",
+                "startTime": "11:30",
+                "endTime": "13:30",
                 "event": "Session 10",
                 "talks": {
                     "tracks": [
@@ -640,30 +649,39 @@ var scheduleData = [
                     ],
                     "slots": [
                         {
-                            "startTime": "11:45",
-                            "endTime": "12:15",
+                            "startTime": "11:30",
+                            "endTime": "12:00",
                             "papers": [
-                                84,
-                                106,
-                                111
+                                25,
+                                44,
+                                7
                             ]
                         },
                         {
-                            "startTime": "12:15",
-                            "endTime": "12:45",
+                            "startTime": "12:00",
+                            "endTime": "12:30",
                             "papers": [
-                                147,
-                                131,
-                                116
+                                27,
+                                65,
+                                49
                             ]
                         },
                         {
-                            "startTime": "12:45",
-                            "endTime": "13:15",
+                            "startTime": "12:30",
+                            "endTime": "13:00",
                             "papers": [
-                                null,
-                                148,
-                                144
+                                59,
+                                145,
+                                51
+                            ]
+                        },
+                        {
+                            "startTime": "13:00",
+                            "endTime": "13:30",
+                            "papers": [
+                                40,
+                                78,
+                                60
                             ]
                         }
                     ]
@@ -673,8 +691,8 @@ var scheduleData = [
                 "extra": null
             },
             {
-                "startTime": "13:00",
-                "endTime": "14:00",
+                "startTime": "13:30",
+                "endTime": "14:15",
                 "event": "Buffet lunch",
                 "talks": null,
                 "url": null,
@@ -682,8 +700,8 @@ var scheduleData = [
                 "extra": null
             },
             {
-                "startTime": "14:00",
-                "endTime": "15:00",
+                "startTime": "14:15",
+                "endTime": "15:15",
                 "event": "Plenary \"Modelling the evolution of syntax\" (Alessandro Treves)",
                 "talks": null,
                 "url": "plenary.html?speaker=treves",
@@ -691,8 +709,8 @@ var scheduleData = [
                 "extra": null
             },
             {
-                "startTime": "15:00",
-                "endTime": "16:30",
+                "startTime": "15:15",
+                "endTime": "16:45",
                 "event": "Session 11",
                 "talks": {
                     "tracks": [
@@ -711,92 +729,30 @@ var scheduleData = [
                     ],
                     "slots": [
                         {
-                            "startTime": "15:00",
-                            "endTime": "15:30",
+                            "startTime": "15:15",
+                            "endTime": "15:45",
                             "papers": [
-                                119,
-                                17,
-                                25
+                                108,
+                                132,
+                                104
                             ]
                         },
                         {
-                            "startTime": "15:30",
-                            "endTime": "16:00",
+                            "startTime": "15:45",
+                            "endTime": "16:15",
                             "papers": [
-                                120,
-                                143,
-                                27
+                                122,
+                                133,
+                                113
                             ]
                         },
                         {
-                            "startTime": "16:00",
-                            "endTime": "16:30",
+                            "startTime": "16:15",
+                            "endTime": "16:45",
                             "papers": [
-                                121,
-                                null,
-                                59
-                            ]
-                        }
-                    ]
-                },
-                "url": null,
-                "venue": "",
-                "extra": null
-            },
-            {
-                "startTime": "16:30",
-                "endTime": "17:00",
-                "event": "Coffee break",
-                "talks": null,
-                "url": null,
-                "venue": "",
-                "extra": null
-            },
-            {
-                "startTime": "17:00",
-                "endTime": "18:30",
-                "event": "Session 12",
-                "talks": {
-                    "tracks": [
-                        {
-                            "name": "12a \u2013 Concert Hall",
-                            "extra": null
-                        },
-                        {
-                            "name": "12b \u2013 Large Auditorium",
-                            "extra": null
-                        },
-                        {
-                            "name": "12c \u2013 Small Auditorium",
-                            "extra": null
-                        }
-                    ],
-                    "slots": [
-                        {
-                            "startTime": "17:00",
-                            "endTime": "17:30",
-                            "papers": [
-                                88,
-                                130,
-                                142
-                            ]
-                        },
-                        {
-                            "startTime": "17:30",
-                            "endTime": "18:00",
-                            "papers": [
-                                129,
-                                139,
-                                145
-                            ]
-                        },
-                        {
-                            "startTime": "18:00",
-                            "endTime": "18:30",
-                            "papers": [
-                                null,
-                                149,
-                                78
+                                148,
+                                70,
+                                123
                             ]
                         }
                     ]
