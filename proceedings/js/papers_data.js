@@ -384,13 +384,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=17",
         "date": "Friday, 10 April 2026",
-        "time": "10:00",
+        "time": "09:30",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-10",
-        "calendar_startTime": "10:00",
-        "calendar_endTime": "10:30",
+        "calendar_startTime": "09:30",
+        "calendar_endTime": "10:00",
         "extra": null
     },
     "18": {
@@ -4573,13 +4573,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=130",
         "date": "Friday, 10 April 2026",
-        "time": "09:30",
+        "time": "10:00",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-10",
-        "calendar_startTime": "09:30",
-        "calendar_endTime": "10:00",
+        "calendar_startTime": "10:00",
+        "calendar_endTime": "10:30",
         "extra": null
     },
     "131": {

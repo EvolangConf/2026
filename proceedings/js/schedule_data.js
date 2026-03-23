@@ -600,7 +600,7 @@ var scheduleData = [
                             "endTime": "10:00",
                             "papers": [
                                 110,
-                                130,
+                                17,
                                 132
                             ]
                         },
@@ -609,7 +609,7 @@ var scheduleData = [
                             "endTime": "10:30",
                             "papers": [
                                 106,
-                                17,
+                                130,
                                 133
                             ]
                         },
