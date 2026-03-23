@@ -5288,9 +5288,13 @@ var papersData = {
     "148": {
         "title": "Plasticity in vocal communication: Wild-captive contrasts in bonobos",
         "authors": [
-            "Franziska Wegdell"
+            "Franziska Wegdell",
+            "Martin Surbeck",
+            "Marlen Fr\u00f6hlich"
         ],
         "correspemails": [
+            null,
+            null,
             null
         ],
         "download": "papers/evolang16_paper_148.pdf",
@@ -5298,7 +5302,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang16_148.bib",
             "ris": "bib/evolang16_148.ris",
-            "copy": "Wegdell, F. (2026). Plasticity in vocal communication: Wild-captive contrasts in bonobos. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
+            "copy": "Wegdell, F., Surbeck, M. & Fr\u00f6hlich, M. (2026). Plasticity in vocal communication: Wild-captive contrasts in bonobos. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Plasticity+in+vocal+communication%3A+Wild-captive+contrasts+in+bonobos%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D148",
