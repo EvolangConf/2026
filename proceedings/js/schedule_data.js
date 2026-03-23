@@ -533,6 +533,15 @@ var scheduleData = [
                 "extra": null
             },
             {
+                "startTime": "18:00",
+                "endTime": "19:00",
+                "event": "Business meeting",
+                "talks": null,
+                "url": null,
+                "venue": "TBA",
+                "extra": null
+            },
+            {
                 "startTime": "20:00",
                 "endTime": null,
                 "event": "Conference dinner",
@@ -759,6 +768,15 @@ var scheduleData = [
                 },
                 "url": null,
                 "venue": "",
+                "extra": null
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "17:15",
+                "event": "Award ceremony & closing remarks",
+                "talks": null,
+                "url": null,
+                "venue": "Concert Hall",
                 "extra": null
             }
         ]
