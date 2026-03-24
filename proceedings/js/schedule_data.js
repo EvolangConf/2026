@@ -72,7 +72,7 @@ var scheduleData = [
                             "endTime": "10:45",
                             "papers": [
                                 71,
-                                13,
+                                18,
                                 21
                             ]
                         },
@@ -81,7 +81,7 @@ var scheduleData = [
                             "endTime": "11:15",
                             "papers": [
                                 81,
-                                18,
+                                null,
                                 31
                             ]
                         }
@@ -672,7 +672,7 @@ var scheduleData = [
                             "papers": [
                                 27,
                                 65,
-                                49
+                                51
                             ]
                         },
                         {
@@ -681,7 +681,7 @@ var scheduleData = [
                             "papers": [
                                 59,
                                 145,
-                                51
+                                60
                             ]
                         },
                         {
@@ -690,7 +690,7 @@ var scheduleData = [
                             "papers": [
                                 40,
                                 78,
-                                60
+                                null
                             ]
                         }
                     ]
@@ -838,6 +838,7 @@ var posterData = [
             107,
             46,
             62,
+            49,
             75
         ]
     }

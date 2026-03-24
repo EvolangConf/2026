@@ -255,45 +255,6 @@ var papersData = {
         "calendar_endTime": "10:45",
         "extra": null
     },
-    "13": {
-        "title": "Beautiful and hideous words: The effect of cross-linguistic phonesthetics and iconicity on word formation",
-        "authors": [
-            "Niklas Erben Johansson",
-            "Andrey Anikin"
-        ],
-        "correspemails": [
-            null,
-            null
-        ],
-        "download": "papers/evolang16_paper_13.pdf",
-        "supplementaryMaterial": null,
-        "citations": {
-            "bibtex": "bib/evolang16_13.bib",
-            "ris": "bib/evolang16_13.ris",
-            "copy": "Erben Johansson, N. & Anikin, A. (2026). Beautiful and hideous words: The effect of cross-linguistic phonesthetics and iconicity on word formation. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
-        },
-        "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Beautiful+and+hideous+words%3A+The+effect+of+cross-linguistic+phonesthetics+and+iconicity+on+word+formation%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D13",
-            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D13&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22Beautiful+and+hideous+words%3A+The+effect+of+cross-linguistic+phonesthetics+and+iconicity+on+word+formation%22+%23EvolangXVI"
-        },
-        "summary": "Certain speech sounds intrinsically carry meaning, demonstrating that iconicity plays a crucial role in word formation and helps shape how meaning is transmitted across languages. People also tend to perceive some sounds or languages as more beautiful than others, raising the question of whether phonesthetics might similarly influence lexical structure. To explore this, we examined phonesthetic judgments of 2,125 recordings from 228 languages, rated by speakers of English, Chinese, and Semitic languages. Non-tonal languages were generally perceived as more pleasant, particularly by Chinese-speaking participants, suggesting systematic perceptual patterns. Building on these results, we investigate tonal languages to examine whether tone patterns relate to words with positive or negative valence. These studies explore how both iconic and phonesthetic associations shape word formation, as well as the interaction between the perceptual and affective dimensions of linguistic sound patterns.",
-        "keywords": [
-            "phonesthetics",
-            "iconicity",
-            "tone",
-            "typology"
-        ],
-        "weburl": "paper.html?nr=13",
-        "date": "Wednesday, 8 April 2026",
-        "time": "10:15",
-        "location": "Large Auditorium (Track b)",
-        "prestype": "talk",
-        "license": null,
-        "calendar_startDate": "2026-04-08",
-        "calendar_startTime": "10:15",
-        "calendar_endTime": "10:45",
-        "extra": null
-    },
     "14": {
         "title": "Context-dependent advantages in primate eye morphology",
         "authors": [
@@ -418,13 +379,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=18",
         "date": "Wednesday, 8 April 2026",
-        "time": "10:45",
+        "time": "10:15",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-08",
-        "calendar_startTime": "10:45",
-        "calendar_endTime": "11:15",
+        "calendar_startTime": "10:15",
+        "calendar_endTime": "10:45",
         "extra": null
     },
     "20": {
@@ -1599,14 +1560,14 @@ var papersData = {
             "quantitative linguistics"
         ],
         "weburl": "paper.html?nr=49",
-        "date": "Friday, 10 April 2026",
-        "time": "12:00",
-        "location": "Small Auditorium (Track c)",
-        "prestype": "talk",
+        "date": "Wednesday, 8 April 2026",
+        "time": "18:00",
+        "location": "The House of Culture \"Boris Hristov\"",
+        "prestype": "poster",
         "license": null,
-        "calendar_startDate": "2026-04-10",
-        "calendar_startTime": "12:00",
-        "calendar_endTime": "12:30",
+        "calendar_startDate": "2026-04-08",
+        "calendar_startTime": "18:00",
+        "calendar_endTime": "18:30",
         "extra": null
     },
     "50": {
@@ -1692,13 +1653,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=51",
         "date": "Friday, 10 April 2026",
-        "time": "12:30",
+        "time": "12:00",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-10",
-        "calendar_startTime": "12:30",
-        "calendar_endTime": "13:00",
+        "calendar_startTime": "12:00",
+        "calendar_endTime": "12:30",
         "extra": null
     },
     "52": {
@@ -2022,13 +1983,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=60",
         "date": "Friday, 10 April 2026",
-        "time": "13:00",
+        "time": "12:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-10",
-        "calendar_startTime": "13:00",
-        "calendar_endTime": "13:30",
+        "calendar_startTime": "12:30",
+        "calendar_endTime": "13:00",
         "extra": null
     },
     "61": {
