@@ -111,13 +111,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=7",
         "date": "Friday, 10 April 2026",
-        "time": "11:30",
+        "time": "12:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-10",
-        "calendar_startTime": "11:30",
-        "calendar_endTime": "12:00",
+        "calendar_startTime": "12:30",
+        "calendar_endTime": "13:00",
         "extra": null
     },
     "8": {
@@ -258,19 +258,17 @@ var papersData = {
     "14": {
         "title": "Context-dependent advantages in primate eye morphology",
         "authors": [
-            "S\u0142awomir Wacewicz",
-            "Marta Sibierska",
             "Juan Olvido Perea-Garc\u00eda",
             "Fumihiro Kano",
-            "Przemys\u0142aw \u017bywiczy\u0144ski",
-            "Marta K. Skrok",
-            "Ewa Katarzyna Ratajczak",
+            "Marta Sibierska",
             "Vojt\u011bch Fiala",
+            "Marta K. Skrok",
             "Dariusz Danel",
-            "Darya Namednikava"
+            "Ewa Katarzyna Ratajczak",
+            "Przemys\u0142aw \u017bywiczy\u0144ski",
+            "S\u0142awomir Wacewicz"
         ],
         "correspemails": [
-            null,
             null,
             null,
             null,
@@ -286,7 +284,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang16_14.bib",
             "ris": "bib/evolang16_14.ris",
-            "copy": "Wacewicz, S., Sibierska, M., Perea-Garc\u00eda, J. O., Kano, F., \u017bywiczy\u0144ski, P., Skrok, M. K., Ratajczak, E. K., Fiala, V., Danel, D. & Namednikava, D. (2026). Context-dependent advantages in primate eye morphology. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
+            "copy": "Perea-Garc\u00eda, J. O., Kano, F., Sibierska, M., Fiala, V., Skrok, M. K., Danel, D., Ratajczak, E. K., \u017bywiczy\u0144ski, P. & Wacewicz, S. (2026). Context-dependent advantages in primate eye morphology. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Context-dependent+advantages+in+primate+eye+morphology%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D14",
@@ -789,13 +787,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=30",
         "date": "Wednesday, 8 April 2026",
-        "time": "14:30",
+        "time": "16:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-08",
-        "calendar_startTime": "14:30",
-        "calendar_endTime": "15:00",
+        "calendar_startTime": "16:30",
+        "calendar_endTime": "17:00",
         "extra": null
     },
     "31": {
@@ -1479,13 +1477,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=47",
         "date": "Wednesday, 8 April 2026",
-        "time": "16:30",
+        "time": "14:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-08",
-        "calendar_startTime": "16:30",
-        "calendar_endTime": "17:00",
+        "calendar_startTime": "14:30",
+        "calendar_endTime": "15:00",
         "extra": null
     },
     "48": {
@@ -1817,13 +1815,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=56",
         "date": "Wednesday, 8 April 2026",
-        "time": "17:00",
+        "time": "15:00",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-08",
-        "calendar_startTime": "17:00",
-        "calendar_endTime": "17:30",
+        "calendar_startTime": "15:00",
+        "calendar_endTime": "15:30",
         "extra": null
     },
     "57": {
@@ -1983,13 +1981,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=60",
         "date": "Friday, 10 April 2026",
-        "time": "12:30",
+        "time": "11:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-10",
-        "calendar_startTime": "12:30",
-        "calendar_endTime": "13:00",
+        "calendar_startTime": "11:30",
+        "calendar_endTime": "12:00",
         "extra": null
     },
     "61": {
@@ -2285,7 +2283,7 @@ var papersData = {
         "authors": [
             "Anita Slonimska",
             "Olga Capirci",
-            "Asli Ozyurek"
+            "Asl\u0131 \u00d6zy\u00fcrek"
         ],
         "correspemails": [
             null,
@@ -2297,7 +2295,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang16_68.bib",
             "ris": "bib/evolang16_68.ris",
-            "copy": "Slonimska, A., Capirci, O. & Ozyurek, A. (2026). Optimized, not lost: The evolutionary trajectory of iconicity as a linguistic property. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
+            "copy": "Slonimska, A., Capirci, O. & \u00d6zy\u00fcrek, A. (2026). Optimized, not lost: The evolutionary trajectory of iconicity as a linguistic property. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Optimized%2C+not+lost%3A+The+evolutionary+trajectory+of+iconicity+as+a+linguistic+property%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D68",
@@ -2565,13 +2563,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=76",
         "date": "Wednesday, 8 April 2026",
-        "time": "17:30",
+        "time": "15:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-08",
-        "calendar_startTime": "17:30",
-        "calendar_endTime": "18:00",
+        "calendar_startTime": "15:30",
+        "calendar_endTime": "16:00",
         "extra": null
     },
     "77": {
@@ -3042,13 +3040,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=90",
         "date": "Wednesday, 8 April 2026",
-        "time": "15:00",
+        "time": "17:00",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-08",
-        "calendar_startTime": "15:00",
-        "calendar_endTime": "15:30",
+        "calendar_startTime": "17:00",
+        "calendar_endTime": "17:30",
         "extra": null
     },
     "91": {
@@ -3204,13 +3202,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=94",
         "date": "Thursday, 9 April 2026",
-        "time": "14:30",
-        "location": "Large Auditorium (Track b)",
+        "time": "16:30",
+        "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "14:30",
-        "calendar_endTime": "15:00",
+        "calendar_startTime": "16:30",
+        "calendar_endTime": "17:00",
         "extra": null
     },
     "95": {
@@ -3285,13 +3283,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=96",
         "date": "Thursday, 9 April 2026",
-        "time": "15:00",
-        "location": "Large Auditorium (Track b)",
+        "time": "17:00",
+        "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "15:00",
-        "calendar_endTime": "15:30",
+        "calendar_startTime": "17:00",
+        "calendar_endTime": "17:30",
         "extra": null
     },
     "97": {
@@ -3368,13 +3366,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=99",
         "date": "Thursday, 9 April 2026",
-        "time": "15:30",
-        "location": "Large Auditorium (Track b)",
+        "time": "17:30",
+        "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "15:30",
-        "calendar_endTime": "16:00",
+        "calendar_startTime": "17:30",
+        "calendar_endTime": "18:00",
         "extra": null
     },
     "100": {
@@ -4124,20 +4122,20 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=119",
         "date": "Thursday, 9 April 2026",
-        "time": "16:30",
-        "location": "Small Auditorium (Track c)",
+        "time": "14:30",
+        "location": "Large Auditorium (Track b)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "16:30",
-        "calendar_endTime": "17:00",
+        "calendar_startTime": "14:30",
+        "calendar_endTime": "15:00",
         "extra": null
     },
     "121": {
         "title": "Facial visibility and the emergence of communication systems: Insights from behavioral measures and facial signals",
         "authors": [
             "Lois Dona",
-            "Asli Ozyurek",
+            "Asl\u0131 \u00d6zy\u00fcrek",
             "Judith Holler",
             "Limor Raviv"
         ],
@@ -4152,7 +4150,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang16_121.bib",
             "ris": "bib/evolang16_121.ris",
-            "copy": "Dona, L., Ozyurek, A., Holler, J. & Raviv, L. (2026). Facial visibility and the emergence of communication systems: Insights from behavioral measures and facial signals. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
+            "copy": "Dona, L., \u00d6zy\u00fcrek, A., Holler, J. & Raviv, L. (2026). Facial visibility and the emergence of communication systems: Insights from behavioral measures and facial signals. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Facial+visibility+and+the+emergence+of+communication+systems%3A+Insights+from+behavioral+measures+and+facial+signals%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D121",
@@ -4491,13 +4489,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=129",
         "date": "Thursday, 9 April 2026",
-        "time": "17:00",
-        "location": "Small Auditorium (Track c)",
+        "time": "15:00",
+        "location": "Large Auditorium (Track b)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "17:00",
-        "calendar_endTime": "17:30",
+        "calendar_startTime": "15:00",
+        "calendar_endTime": "15:30",
         "extra": null
     },
     "130": {
@@ -4823,13 +4821,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=137",
         "date": "Wednesday, 8 April 2026",
-        "time": "15:30",
+        "time": "17:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-08",
-        "calendar_startTime": "15:30",
-        "calendar_endTime": "16:00",
+        "calendar_startTime": "17:30",
+        "calendar_endTime": "18:00",
         "extra": null
     },
     "139": {
@@ -5044,13 +5042,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=143",
         "date": "Thursday, 9 April 2026",
-        "time": "17:30",
-        "location": "Small Auditorium (Track c)",
+        "time": "15:30",
+        "location": "Large Auditorium (Track b)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "17:30",
-        "calendar_endTime": "18:00",
+        "calendar_startTime": "15:30",
+        "calendar_endTime": "16:00",
         "extra": null
     },
     "144": {
