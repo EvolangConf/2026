@@ -906,13 +906,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=33",
         "date": "Thursday, 9 April 2026",
-        "time": "16:30",
+        "time": "14:30",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "16:30",
-        "calendar_endTime": "17:00",
+        "calendar_startTime": "14:30",
+        "calendar_endTime": "15:00",
         "extra": null
     },
     "34": {
@@ -948,13 +948,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=34",
         "date": "Thursday, 9 April 2026",
-        "time": "17:00",
+        "time": "15:00",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "17:00",
-        "calendar_endTime": "17:30",
+        "calendar_startTime": "15:00",
+        "calendar_endTime": "15:30",
         "extra": null
     },
     "35": {
@@ -990,13 +990,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=35",
         "date": "Thursday, 9 April 2026",
-        "time": "17:30",
+        "time": "15:30",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "17:30",
-        "calendar_endTime": "18:00",
+        "calendar_startTime": "15:30",
+        "calendar_endTime": "16:00",
         "extra": null
     },
     "36": {
@@ -1603,13 +1603,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=50",
         "date": "Thursday, 9 April 2026",
-        "time": "14:30",
-        "location": "Concert Hall (Track a)",
+        "time": "17:00",
+        "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "14:30",
-        "calendar_endTime": "15:00",
+        "calendar_startTime": "17:00",
+        "calendar_endTime": "17:30",
         "extra": null
     },
     "51": {
@@ -2020,13 +2020,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=61",
         "date": "Thursday, 9 April 2026",
-        "time": "15:00",
-        "location": "Concert Hall (Track a)",
+        "time": "17:30",
+        "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "15:00",
-        "calendar_endTime": "15:30",
+        "calendar_startTime": "17:30",
+        "calendar_endTime": "18:00",
         "extra": null
     },
     "62": {
@@ -2110,13 +2110,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=63",
         "date": "Thursday, 9 April 2026",
-        "time": "15:00",
+        "time": "16:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "15:00",
-        "calendar_endTime": "15:30",
+        "calendar_startTime": "16:30",
+        "calendar_endTime": "17:00",
         "extra": null
     },
     "64": {
@@ -2147,21 +2147,23 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=64",
         "date": "Thursday, 9 April 2026",
-        "time": "11:45",
-        "location": "Small Auditorium (Track c)",
+        "time": "16:30",
+        "location": "Large Auditorium (Track b)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "11:45",
-        "calendar_endTime": "12:15",
+        "calendar_startTime": "16:30",
+        "calendar_endTime": "17:00",
         "extra": null
     },
     "65": {
-        "title": "Reliance on compositionality may fluctuate over time: The ecclesiastes principle and the linguistic niche hypothesis",
+        "title": "Reliance on compositionality may fluctuate over time: The Ecclesiastes Principle and the Linguistic Niche Hypothesis",
         "authors": [
+            "Robbert De Troij",
             "Freek Van de Velde"
         ],
         "correspemails": [
+            null,
             null
         ],
         "download": "papers/evolang16_paper_65.pdf",
@@ -2169,11 +2171,11 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang16_65.bib",
             "ris": "bib/evolang16_65.ris",
-            "copy": "Van de Velde, F. (2026). Reliance on compositionality may fluctuate over time: The ecclesiastes principle and the linguistic niche hypothesis. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
+            "copy": "De Troij, R. & Van de Velde, F. (2026). Reliance on compositionality may fluctuate over time: The Ecclesiastes Principle and the Linguistic Niche Hypothesis. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
         },
         "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Reliance+on+compositionality+may+fluctuate+over+time%3A+The+ecclesiastes+principle+and+the+linguistic+niche+hypothesis%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D65",
-            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D65&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22Reliance+on+compositionality+may+fluctuate+over+time%3A+The+ecclesiastes+principle+and+the+linguistic+niche+hypothesis%22+%23EvolangXVI"
+            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Reliance+on+compositionality+may+fluctuate+over+time%3A+The+Ecclesiastes+Principle+and+the+Linguistic+Niche+Hypothesis%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D65",
+            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D65&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22Reliance+on+compositionality+may+fluctuate+over+time%3A+The+Ecclesiastes+Principle+and+the+Linguistic+Niche+Hypothesis%22+%23EvolangXVI"
         },
         "summary": "Languages have been argued to adapt to their socio-cultural niche. In our study, we look at the connection between syntax and the lexicon. We argue that an expanding lexicon will affect the architecture of grammar: as the lexicon grows, a higher cognitive burden is put on the language users. In response, they will rely less on freely combinatorial syntax, and more on lexical prefabs. We look at Late Modern Dutch from the period 1850-1999 and measured the change in association strength (\u0394P) between lexical trigrams and part-of-speech trigrams. We find that over this 150-year period, lexical trigrams show an increase in association strength. Turning to entropy and Kullback-Leibler Divergence, we have support for the idea that the increased use of predictable trigrams does not operate indiscriminately but affects only part of the lexicon, and is indeed spurred on by lexical innovation. This can be taken as real-time within-language (rather than between-language) support for the linguistic niche hypothesis.",
         "keywords": [
@@ -2605,7 +2607,7 @@ var papersData = {
         "weburl": "paper.html?nr=77",
         "date": "Thursday, 9 April 2026",
         "time": "15:30",
-        "location": "Concert Hall (Track a)",
+        "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
@@ -2777,13 +2779,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=82",
         "date": "Thursday, 9 April 2026",
-        "time": "15:30",
+        "time": "15:00",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "15:30",
-        "calendar_endTime": "16:00",
+        "calendar_startTime": "15:00",
+        "calendar_endTime": "15:30",
         "extra": null
     },
     "84": {
@@ -3202,13 +3204,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=94",
         "date": "Thursday, 9 April 2026",
-        "time": "16:30",
+        "time": "11:45",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "16:30",
-        "calendar_endTime": "17:00",
+        "calendar_startTime": "11:45",
+        "calendar_endTime": "12:15",
         "extra": null
     },
     "95": {
@@ -3283,13 +3285,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=96",
         "date": "Thursday, 9 April 2026",
-        "time": "17:00",
+        "time": "12:15",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "17:00",
-        "calendar_endTime": "17:30",
+        "calendar_startTime": "12:15",
+        "calendar_endTime": "12:45",
         "extra": null
     },
     "97": {
@@ -3366,13 +3368,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=99",
         "date": "Thursday, 9 April 2026",
-        "time": "17:30",
+        "time": "12:45",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "17:30",
-        "calendar_endTime": "18:00",
+        "calendar_startTime": "12:45",
+        "calendar_endTime": "13:15",
         "extra": null
     },
     "100": {
@@ -3695,14 +3697,14 @@ var papersData = {
             "primate vocalization"
         ],
         "weburl": "paper.html?nr=108",
-        "date": "Friday, 10 April 2026",
-        "time": "15:30",
-        "location": "Concert Hall (Track a)",
-        "prestype": "talk",
+        "date": "Wednesday, 8 April 2026",
+        "time": "18:00",
+        "location": "The House of Culture \"Boris Hristov\"",
+        "prestype": "poster",
         "license": null,
-        "calendar_startDate": "2026-04-10",
-        "calendar_startTime": "15:30",
-        "calendar_endTime": "16:00",
+        "calendar_startDate": "2026-04-08",
+        "calendar_startTime": "18:00",
+        "calendar_endTime": "18:30",
         "extra": null
     },
     "109": {
@@ -3880,7 +3882,7 @@ var papersData = {
         "extra": null
     },
     "113": {
-        "title": "Do humans imitate generative ai in journalism? Evidence from Korean news corpora",
+        "title": "Do humans imitate generative AI in journalism? Evidence from Korean news corpora",
         "authors": [
             "Seungjoon Cho",
             "Sung Do Kim",
@@ -3896,11 +3898,11 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang16_113.bib",
             "ris": "bib/evolang16_113.ris",
-            "copy": "Cho, S., Kim, S. D. & Cho, J. (2026). Do humans imitate generative ai in journalism? Evidence from Korean news corpora. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
+            "copy": "Cho, S., Kim, S. D. & Cho, J. (2026). Do humans imitate generative AI in journalism? Evidence from Korean news corpora. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
         },
         "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Do+humans+imitate+generative+ai+in+journalism%3F+Evidence+from+Korean+news+corpora%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D113",
-            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D113&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22Do+humans+imitate+generative+ai+in+journalism%3F+Evidence+from+Korean+news+corpora%22+%23EvolangXVI"
+            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Do+humans+imitate+generative+AI+in+journalism%3F+Evidence+from+Korean+news+corpora%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D113",
+            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D113&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22Do+humans+imitate+generative+AI+in+journalism%3F+Evidence+from+Korean+news+corpora%22+%23EvolangXVI"
         },
         "summary": "To understand how language emerges and operates, we must understand processes of language change. Today, change may be increasingly shaped by generative AI (GenAI). While prior work has focused on lexical frequency, this study tests whether broader linguistic shifts are detectable in Korean journalism, a highly conventionalized register where GenAI has increasingly been adopted in parts of news production since 2023. Using the National Institute of Korean Language\u2019s Modu Corpus, we compare a pre-GenAI baseline year (2022) with two post-adoption years (2023-2024), normalizing phrase rates and controlling article length. We estimate a GenAI direction via paired human-GenAI rewrites and derive a GenAI-directional phrasing index from systematic changes in recurrent newsroom expressions. The paired experiment shows a clear directional signature: GenAI favors additive and organizing markers while reducing uncertainty/appearance constructions. In the full corpora, year-to-year movement is modest and sensitive to compositional shifts, especially changes in outlet mix.",
         "keywords": [
@@ -4212,13 +4214,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=122",
         "date": "Friday, 10 April 2026",
-        "time": "16:00",
+        "time": "15:30",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-10",
-        "calendar_startTime": "16:00",
-        "calendar_endTime": "16:30",
+        "calendar_startTime": "15:30",
+        "calendar_endTime": "16:00",
         "extra": null
     },
     "123": {
@@ -4363,7 +4365,7 @@ var papersData = {
         "weburl": "paper.html?nr=126",
         "date": "Thursday, 9 April 2026",
         "time": "17:00",
-        "location": "Large Auditorium (Track b)",
+        "location": "Concert Hall (Track a)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
@@ -4732,13 +4734,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=135",
         "date": "Thursday, 9 April 2026",
-        "time": "12:15",
-        "location": "Small Auditorium (Track c)",
+        "time": "17:00",
+        "location": "Large Auditorium (Track b)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "12:15",
-        "calendar_endTime": "12:45",
+        "calendar_startTime": "17:00",
+        "calendar_endTime": "17:30",
         "extra": null
     },
     "136": {
@@ -4780,13 +4782,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=136",
         "date": "Thursday, 9 April 2026",
-        "time": "12:45",
-        "location": "Small Auditorium (Track c)",
+        "time": "17:30",
+        "location": "Large Auditorium (Track b)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "12:45",
-        "calendar_endTime": "13:15",
+        "calendar_startTime": "17:30",
+        "calendar_endTime": "18:00",
         "extra": null
     },
     "137": {
@@ -4867,7 +4869,7 @@ var papersData = {
         "weburl": "paper.html?nr=139",
         "date": "Thursday, 9 April 2026",
         "time": "16:30",
-        "location": "Large Auditorium (Track b)",
+        "location": "Concert Hall (Track a)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
@@ -4993,7 +4995,7 @@ var papersData = {
         "weburl": "paper.html?nr=142",
         "date": "Thursday, 9 April 2026",
         "time": "17:30",
-        "location": "Large Auditorium (Track b)",
+        "location": "Concert Hall (Track a)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-09",
@@ -5275,13 +5277,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=148",
         "date": "Friday, 10 April 2026",
-        "time": "16:30",
+        "time": "16:00",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-10",
-        "calendar_startTime": "16:30",
-        "calendar_endTime": "17:00",
+        "calendar_startTime": "16:00",
+        "calendar_endTime": "16:30",
         "extra": null
     },
     "149": {
