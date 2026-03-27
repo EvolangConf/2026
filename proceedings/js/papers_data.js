@@ -4004,45 +4004,6 @@ var papersData = {
         "calendar_endTime": "15:30",
         "extra": null
     },
-    "117": {
-        "title": "Language diversity through inheritance and conformity",
-        "authors": [
-            "Sofia Cvetkovic Destouni"
-        ],
-        "correspemails": [
-            null
-        ],
-        "download": "papers/evolang16_paper_117.pdf",
-        "supplementaryMaterial": null,
-        "citations": {
-            "bibtex": "bib/evolang16_117.bib",
-            "ris": "bib/evolang16_117.ris",
-            "copy": "Destouni, S. C. (2026). Language diversity through inheritance and conformity. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
-        },
-        "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Language+diversity+through+inheritance+and+conformity%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D117",
-            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D117&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22Language+diversity+through+inheritance+and+conformity%22+%23EvolangXVI"
-        },
-        "summary": "This modeling project originated at the 2025 Summer School of the Santa Fe Institute for Complex Systems. It examines how language diversity can persist or collapse under the combined effects of conformity, institutional pressure, and intergenerational inheritance. Using a modified agent-based Schelling model, we simulate populations where individuals may be monolingual or bilingual, and language use evolves through two mechanisms: adopting the dominant local language and transmitting a heritage language to offspring. We intoduce two parameters to govern these dynamics: institutional pressure and inheritance bias, allowing exploration of long-term outcomes across parameter spaces. Results reveal that regions of balanced bilingual coexistence exist, while imbalanced institutional pressure drives minority languages to extinction. As a step toward real-world applicability, we draw on empirical data from the Mosuo in China, where stable bilingualism emerges through consistent heritage transmission under institutional pressure.",
-        "keywords": [
-            "language diversity",
-            "bilingualism",
-            "language coexistance",
-            "agent-based modeling",
-            "conformation bias",
-            "institutional influence"
-        ],
-        "weburl": "paper.html?nr=117",
-        "date": "Wednesday, 8 April 2026",
-        "time": "18:00",
-        "location": "The House of Culture \"Boris Hristov\"",
-        "prestype": "poster",
-        "license": null,
-        "calendar_startDate": "2026-04-08",
-        "calendar_startTime": "18:00",
-        "calendar_endTime": "18:30",
-        "extra": null
-    },
     "118": {
         "title": "Female vocal tracts are optimized for speech",
         "authors": [
@@ -4374,7 +4335,7 @@ var papersData = {
         "extra": null
     },
     "127": {
-        "title": "Crossparametric dependencies and social network analysis",
+        "title": "Crossparametric dependencies and Social Network Analysis",
         "authors": [
             "Marco Longhin",
             "Stefano Ghinoi",
@@ -4394,11 +4355,11 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang16_127.bib",
             "ris": "bib/evolang16_127.ris",
-            "copy": "Longhin, M., Ghinoi, S., Sorge, G., Artioli, A. & Guardiano, C. (2026). Crossparametric dependencies and social network analysis. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
+            "copy": "Longhin, M., Ghinoi, S., Sorge, G., Artioli, A. & Guardiano, C. (2026). Crossparametric dependencies and Social Network Analysis. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
         },
         "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Crossparametric+dependencies+and+social+network+analysis%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D127",
-            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D127&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22Crossparametric+dependencies+and+social+network+analysis%22+%23EvolangXVI"
+            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Crossparametric+dependencies+and+Social+Network+Analysis%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D127",
+            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D127&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22Crossparametric+dependencies+and+Social+Network+Analysis%22+%23EvolangXVI"
         },
         "summary": "The dependency structure of syntactic parameters poses a challenge for phylogenetic inference, as standard methods are not designed to accommodate character interdependencies. Building on computational work that represents crossparametric dependencies as network graphs, this study proposes a pilot implementation of Social Network Analysis (SNA) to model parameter systems as relational networks. While the use of SNA is not new in the study of linguistic interactions, its potential for modeling abstract systems of language properties has remained largely unexplored. We pursue two goals: (i) assessing crosslinguistic similarity through network comparison, and (ii) identifying central nodes within parameter networks. Our results show that parameter systems can be characterized using canonical SNA metrics, enabling the quantification of node-level centrality. Systematic node removal yields measurable shifts in similarity scores across language pairs, indicating that parameters contribute asymmetrically to convergence and divergence patterns. These findings suggest that SNA methods may significantly enhance the historical study of syntactic variation by integrating dependency structures into parametric phylogenetic modeling.",
         "keywords": [
@@ -4665,7 +4626,7 @@ var papersData = {
         "extra": null
     },
     "134": {
-        "title": "No way to linguistic compositionality without duality of patterning",
+        "title": "No way to linguistic compositionality without Duality of Patterning",
         "authors": [
             "Joana Rossello"
         ],
@@ -4677,11 +4638,11 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang16_134.bib",
             "ris": "bib/evolang16_134.ris",
-            "copy": "Rossello, J. (2026). No way to linguistic compositionality without duality of patterning. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
+            "copy": "Rossello, J. (2026). No way to linguistic compositionality without Duality of Patterning. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
         },
         "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22No+way+to+linguistic+compositionality+without+duality+of+patterning%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D134",
-            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D134&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22No+way+to+linguistic+compositionality+without+duality+of+patterning%22+%23EvolangXVI"
+            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22No+way+to+linguistic+compositionality+without+Duality+of+Patterning%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D134",
+            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D134&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22No+way+to+linguistic+compositionality+without+Duality+of+Patterning%22+%23EvolangXVI"
         },
         "summary": "Claims of syntactic compositionality in the calls of Japanese tits, bonobos and chimpanzees are questioned. It is argued that Fregean compositionality, which is assumed in both cases, presupposes combinatoriality. Yet, the concurrence of compositionality and combinatoriality is only found in language: claims of compositionality elsewhere are thus invalidated. Further, compositionality arguments based on the organizing component (component 2) of the notion of compositionality are shown to be flawed. This comes out as irrelevant because the constituent parts (component 1, presupposed in component 2) lack the meaning involved in linguistic compositionality, which is an abstract, digital meaning detached from the features of circumstances. Animal semantic calls thought of as an evolutionary step towards phonology by Hockett are shown to be a dead end. Instead, in the alternative view advanced, combinatoriality originates in the phonological syntax of vocal production learners, thereby providing a more plausible foundation for the emergence of conventional linguistic meaning, which arose with the invention of words.",
         "keywords": [
@@ -4744,7 +4705,7 @@ var papersData = {
         "extra": null
     },
     "136": {
-        "title": "The death of latin: Detecting the demographic drivers of European vernacularization 1450-1900",
+        "title": "The death of Latin: Detecting the demographic drivers of European vernacularization 1450-1900",
         "authors": [
             "Peeter Tinits",
             "Oleg Sobchuk",
@@ -4766,11 +4727,11 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang16_136.bib",
             "ris": "bib/evolang16_136.ris",
-            "copy": "Tinits, P., Sobchuk, O., Tiihonen, I., M\u00e4kel\u00e4, E., Tolonen, M. & Beheim, B. (2026). The death of latin: Detecting the demographic drivers of European vernacularization 1450-1900. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
+            "copy": "Tinits, P., Sobchuk, O., Tiihonen, I., M\u00e4kel\u00e4, E., Tolonen, M. & Beheim, B. (2026). The death of Latin: Detecting the demographic drivers of European vernacularization 1450-1900. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
         },
         "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22The+death+of+latin%3A+Detecting+the+demographic+drivers+of+European+vernacularization+1450-1900%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D136",
-            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D136&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22The+death+of+latin%3A+Detecting+the+demographic+drivers+of+European+vernacularization+1450-1900%22+%23EvolangXVI"
+            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22The+death+of+Latin%3A+Detecting+the+demographic+drivers+of+European+vernacularization+1450-1900%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D136",
+            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D136&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22The+death+of+Latin%3A+Detecting+the+demographic+drivers+of+European+vernacularization+1450-1900%22+%23EvolangXVI"
         },
         "summary": "European early modern vernacularization substantially transformed the local language landscape with far-reaching impacts in international politics. As the educated elite moved away from Latin, local communities were empowered to communicate in regional varieties. We study the demographic drivers behind these processes based on historical bibliographic data on ca. 10 million books published across Europe in 1450-1900. We look at the role individuals played in these processes: was this vernacularization driven by shifts within communities or new community members setting new priorities? We analyze these processes using the Price equation, adapted from evolutionary ecology. With this, we decompose trends in language use into underlying forces: entrances of individuals, their exits, and individual change. We present results from different historical transitions in language use across Europe. The degrees of influence from population turnover and individual change provide one key to a better understanding of the origins of modern European language diversity.",
         "keywords": [
