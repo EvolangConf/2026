@@ -5,7 +5,7 @@ var sharedData = {
             "id": "lupyan"
         },
         {
-            "name": "Katie Slocombe",
+            "name": "Katie E. Slocombe",
             "id": "slocombe"
         },
         {

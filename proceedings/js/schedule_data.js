@@ -296,7 +296,7 @@ var scheduleData = [
             {
                 "startTime": "09:00",
                 "endTime": "10:00",
-                "event": "Plenary \"Primate communication and social cognition: Roots of human language?\" (Katie Slocombe)",
+                "event": "Plenary \"Primate communication and social cognition: Roots of human language?\" (Katie E. Slocombe)",
                 "talks": null,
                 "url": "plenary.html?speaker=slocombe",
                 "venue": "Concert Hall",
