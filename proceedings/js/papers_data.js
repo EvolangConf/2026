@@ -8,7 +8,7 @@ var papersData = {
             "Viorica Marian"
         ],
         "correspemails": [
-            null,
+            "c.soto@northwestern.edu",
             null,
             null,
             null
@@ -50,7 +50,7 @@ var papersData = {
             "Ramon Ferrer-i-Cancho"
         ],
         "correspemails": [
-            null
+            "rferrericancho@cs.upc.edu"
         ],
         "download": "papers/evolang16_paper_6.pdf",
         "supplementaryMaterial": null,
@@ -73,7 +73,7 @@ var papersData = {
         "time": "10:30",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "10:30",
         "calendar_endTime": "11:00",
@@ -87,7 +87,7 @@ var papersData = {
             "Balthasar Bickel"
         ],
         "correspemails": [
-            null,
+            "anna.graff@uzh.ch",
             null,
             null
         ],
@@ -114,7 +114,7 @@ var papersData = {
         "time": "12:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "12:30",
         "calendar_endTime": "13:00",
@@ -126,7 +126,7 @@ var papersData = {
             "Haneen Elias"
         ],
         "correspemails": [
-            null
+            "haneen.elias@biu.ac.il"
         ],
         "download": "papers/evolang16_paper_8.pdf",
         "supplementaryMaterial": null,
@@ -150,7 +150,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -170,7 +170,7 @@ var papersData = {
             "Limor Raviv"
         ],
         "correspemails": [
-            null,
+            "danielle.naegeli@mpi.nl",
             null,
             null,
             null,
@@ -204,7 +204,7 @@ var papersData = {
         "time": "11:45",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "11:45",
         "calendar_endTime": "12:15",
@@ -220,7 +220,7 @@ var papersData = {
             "Chundra Cathcart"
         ],
         "correspemails": [
-            null,
+            "laura.dees@uzh.ch",
             null,
             null,
             null,
@@ -249,10 +249,49 @@ var papersData = {
         "time": "10:15",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "10:15",
         "calendar_endTime": "10:45",
+        "extra": null
+    },
+    "13": {
+        "title": "Beautiful and hideous words: The effect of cross-linguistic phonesthetics and iconicity on word formation",
+        "authors": [
+            "Niklas Erben Johansson",
+            "Andrey Anikin"
+        ],
+        "correspemails": [
+            "niklas.erben_johansson@ling.lu.se",
+            null
+        ],
+        "download": "papers/evolang16_paper_13.pdf",
+        "supplementaryMaterial": null,
+        "citations": {
+            "bibtex": "bib/evolang16_13.bib",
+            "ris": "bib/evolang16_13.ris",
+            "copy": "Erben Johansson, N. & Anikin, A. (2026). Beautiful and hideous words: The effect of cross-linguistic phonesthetics and iconicity on word formation. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
+        },
+        "sharing": {
+            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Beautiful+and+hideous+words%3A+The+effect+of+cross-linguistic+phonesthetics+and+iconicity+on+word+formation%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D13",
+            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D13&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22Beautiful+and+hideous+words%3A+The+effect+of+cross-linguistic+phonesthetics+and+iconicity+on+word+formation%22+%23EvolangXVI"
+        },
+        "summary": "Certain speech sounds intrinsically carry meaning, demonstrating that iconicity plays a crucial role in word formation and helps shape how meaning is transmitted across languages. People also tend to perceive some sounds or languages as more beautiful than others, raising the question of whether phonesthetics might similarly influence lexical structure. To explore this, we examined phonesthetic judgments of 2,125 recordings from 228 languages, rated by speakers of English, Chinese, and Semitic languages. Non-tonal languages were generally perceived as more pleasant, particularly by Chinese-speaking participants, suggesting systematic perceptual patterns. Building on these results, we investigate tonal languages to examine whether tone patterns relate to words with positive or negative valence. These studies explore how both iconic and phonesthetic associations shape word formation, as well as the interaction between the perceptual and affective dimensions of linguistic sound patterns.",
+        "keywords": [
+            "phonesthetics",
+            "iconicity",
+            "tone",
+            "typology"
+        ],
+        "weburl": "paper.html?nr=13",
+        "date": "Thursday, 9 April 2026",
+        "time": "10:15",
+        "location": "The Ramada Trimontium Hotel",
+        "prestype": "talk",
+        "license": "CC BY-NC-ND 4.0",
+        "calendar_startDate": "2026-04-07",
+        "calendar_startTime": "13:30",
+        "calendar_endTime": "14:00",
         "extra": null
     },
     "14": {
@@ -269,7 +308,7 @@ var papersData = {
             "S\u0142awomir Wacewicz"
         ],
         "correspemails": [
-            null,
+            "juan.perea@ulpgc.es",
             null,
             null,
             null,
@@ -304,7 +343,7 @@ var papersData = {
         "time": "12:15",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "12:15",
         "calendar_endTime": "12:45",
@@ -318,7 +357,7 @@ var papersData = {
             "Jennifer Culbertson"
         ],
         "correspemails": [
-            null,
+            "s.bluetgen@sms.ed.ac.uk",
             null,
             null
         ],
@@ -346,7 +385,7 @@ var papersData = {
         "time": "09:30",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "09:30",
         "calendar_endTime": "10:00",
@@ -358,7 +397,7 @@ var papersData = {
             "Shiri Lev-Ari"
         ],
         "correspemails": [
-            null
+            "shiri.lev-ari@rhul.ac.uk"
         ],
         "download": "papers/evolang16_paper_18.pdf",
         "supplementaryMaterial": null,
@@ -380,7 +419,7 @@ var papersData = {
         "time": "10:15",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "10:15",
         "calendar_endTime": "10:45",
@@ -393,7 +432,7 @@ var papersData = {
             "Kenny Smith"
         ],
         "correspemails": [
-            null,
+            "aislinn.k.keogh@durham.ac.uk",
             null
         ],
         "download": "papers/evolang16_paper_20.pdf",
@@ -418,7 +457,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -433,7 +472,7 @@ var papersData = {
             "Kenny Smith"
         ],
         "correspemails": [
-            null,
+            "maisy.hallam@ed.ac.uk",
             null,
             null,
             null
@@ -460,7 +499,7 @@ var papersData = {
         "time": "10:15",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "10:15",
         "calendar_endTime": "10:45",
@@ -474,7 +513,7 @@ var papersData = {
         ],
         "correspemails": [
             null,
-            null
+            "m.perlman@bham.ac.uk"
         ],
         "download": "papers/evolang16_paper_22.pdf",
         "supplementaryMaterial": null,
@@ -499,7 +538,7 @@ var papersData = {
         "time": "16:30",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "16:30",
         "calendar_endTime": "17:00",
@@ -511,7 +550,7 @@ var papersData = {
             "Andrea Valle"
         ],
         "correspemails": [
-            null
+            "andrea.valle@unito.it"
         ],
         "download": "papers/evolang16_paper_23.pdf",
         "supplementaryMaterial": null,
@@ -536,7 +575,7 @@ var papersData = {
         "time": "15:30",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "15:30",
         "calendar_endTime": "16:00",
@@ -551,7 +590,7 @@ var papersData = {
             "Susanne Fuchs"
         ],
         "correspemails": [
-            null,
+            "cwiek@umk.pl",
             null,
             null,
             null
@@ -581,7 +620,7 @@ var papersData = {
         "time": "17:00",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "17:00",
         "calendar_endTime": "17:30",
@@ -596,7 +635,7 @@ var papersData = {
             "Jennifer Culbertson"
         ],
         "correspemails": [
-            null,
+            "bartha_benedek@phd.ceu.edu",
             null,
             null,
             null
@@ -628,7 +667,7 @@ var papersData = {
         "time": "11:30",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "11:30",
         "calendar_endTime": "12:00",
@@ -640,7 +679,7 @@ var papersData = {
             "Ljiljana Progovac"
         ],
         "correspemails": [
-            null
+            "progovac@wayne.edu"
         ],
         "download": "papers/evolang16_paper_26.pdf",
         "supplementaryMaterial": null,
@@ -666,7 +705,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -680,7 +719,7 @@ var papersData = {
             "Lara Bardi"
         ],
         "correspemails": [
-            null,
+            "rui.liu@ugent.be",
             null,
             null
         ],
@@ -707,7 +746,7 @@ var papersData = {
         "time": "12:00",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "12:00",
         "calendar_endTime": "12:30",
@@ -725,7 +764,7 @@ var papersData = {
             null,
             null,
             null,
-            null
+            "sara.i.walker@asu.edu"
         ],
         "download": "papers/evolang16_paper_28.pdf",
         "supplementaryMaterial": null,
@@ -751,7 +790,7 @@ var papersData = {
         "time": "10:45",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "10:45",
         "calendar_endTime": "11:15",
@@ -763,7 +802,7 @@ var papersData = {
             "Piotr Podlipniak"
         ],
         "correspemails": [
-            null
+            "podlip@amu.edu.pl"
         ],
         "download": "papers/evolang16_paper_30.pdf",
         "supplementaryMaterial": null,
@@ -790,7 +829,7 @@ var papersData = {
         "time": "16:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "16:30",
         "calendar_endTime": "17:00",
@@ -803,7 +842,7 @@ var papersData = {
             "T. Mark Ellison"
         ],
         "correspemails": [
-            null,
+            "uta.reinoehl@linguistik.uni-freiburg.de",
             null
         ],
         "download": "papers/evolang16_paper_31.pdf",
@@ -830,7 +869,7 @@ var papersData = {
         "time": "10:45",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "10:45",
         "calendar_endTime": "11:15",
@@ -842,7 +881,7 @@ var papersData = {
             "Timo B. Roettger"
         ],
         "correspemails": [
-            null
+            "timo.roettger@iln.uio.no"
         ],
         "download": "papers/evolang16_paper_32.pdf",
         "supplementaryMaterial": null,
@@ -866,7 +905,7 @@ var papersData = {
         "time": "11:45",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "11:45",
         "calendar_endTime": "12:15",
@@ -880,7 +919,7 @@ var papersData = {
             "Noam Siegelman"
         ],
         "correspemails": [
-            null,
+            "tamar.matas@mail.huji.ac.il",
             null,
             null
         ],
@@ -909,7 +948,7 @@ var papersData = {
         "time": "16:30",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "16:30",
         "calendar_endTime": "17:00",
@@ -923,7 +962,7 @@ var papersData = {
             "Inbal Arnon"
         ],
         "correspemails": [
-            null,
+            "luciagesine@gmail.com",
             null,
             null
         ],
@@ -951,7 +990,7 @@ var papersData = {
         "time": "17:00",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "17:00",
         "calendar_endTime": "17:30",
@@ -966,7 +1005,7 @@ var papersData = {
             "Jennifer Culbertson"
         ],
         "correspemails": [
-            null,
+            "stal@ed.ac.uk",
             null,
             null,
             null
@@ -993,7 +1032,7 @@ var papersData = {
         "time": "17:30",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "17:30",
         "calendar_endTime": "18:00",
@@ -1031,7 +1070,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -1043,7 +1082,7 @@ var papersData = {
             "Bart Geurts"
         ],
         "correspemails": [
-            null
+            "brtgrts@gmail.com"
         ],
         "download": "papers/evolang16_paper_37.pdf",
         "supplementaryMaterial": null,
@@ -1068,7 +1107,7 @@ var papersData = {
         "time": "10:15",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "10:15",
         "calendar_endTime": "10:45",
@@ -1086,7 +1125,7 @@ var papersData = {
             "Przemys\u0142aw \u017bywiczy\u0144ski"
         ],
         "correspemails": [
-            null,
+            "sibier@umk.pl",
             null,
             null,
             null,
@@ -1119,7 +1158,7 @@ var papersData = {
         "time": "17:30",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "17:30",
         "calendar_endTime": "18:00",
@@ -1131,7 +1170,7 @@ var papersData = {
             "Gonzalo Maestro Paredes"
         ],
         "correspemails": [
-            null
+            "maestro@mail.muni.cz"
         ],
         "download": "papers/evolang16_paper_40.pdf",
         "supplementaryMaterial": null,
@@ -1158,7 +1197,7 @@ var papersData = {
         "time": "13:00",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "13:00",
         "calendar_endTime": "13:30",
@@ -1175,7 +1214,7 @@ var papersData = {
             "Marek Placi\u0144ski"
         ],
         "correspemails": [
-            null,
+            "przemek@umk.pl",
             null,
             null,
             null,
@@ -1204,7 +1243,7 @@ var papersData = {
         "time": "10:15",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "10:15",
         "calendar_endTime": "10:45",
@@ -1218,7 +1257,7 @@ var papersData = {
             "Simon Kirby"
         ],
         "correspemails": [
-            null,
+            "aislinn.k.keogh@durham.ac.uk",
             null,
             null
         ],
@@ -1245,7 +1284,7 @@ var papersData = {
         "time": "16:30",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "16:30",
         "calendar_endTime": "17:00",
@@ -1259,7 +1298,7 @@ var papersData = {
             "Alfred Anwander"
         ],
         "correspemails": [
-            null,
+            "beckery@cbs.mpg.de",
             null,
             null
         ],
@@ -1288,7 +1327,7 @@ var papersData = {
         "time": "12:45",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "12:45",
         "calendar_endTime": "13:15",
@@ -1300,7 +1339,7 @@ var papersData = {
             "Fausto Carcassi"
         ],
         "correspemails": [
-            null
+            "f.carcassi@uva.nl"
         ],
         "download": "papers/evolang16_paper_44.pdf",
         "supplementaryMaterial": null,
@@ -1325,7 +1364,7 @@ var papersData = {
         "time": "11:30",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "11:30",
         "calendar_endTime": "12:00",
@@ -1342,7 +1381,7 @@ var papersData = {
             "Kenny Smith"
         ],
         "correspemails": [
-            null,
+            "ponrawee.prasertsom@ed.ac.uk",
             null,
             null,
             null,
@@ -1373,7 +1412,7 @@ var papersData = {
         "time": "10:45",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "10:45",
         "calendar_endTime": "11:15",
@@ -1387,7 +1426,7 @@ var papersData = {
             "Bodo Winter"
         ],
         "correspemails": [
-            null,
+            "elenacv@uio.no",
             null,
             null
         ],
@@ -1414,7 +1453,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -1439,7 +1478,7 @@ var papersData = {
             "Alfred Anwander"
         ],
         "correspemails": [
-            null,
+            "peikert@cbs.mpg.de",
             null,
             null,
             null,
@@ -1480,7 +1519,7 @@ var papersData = {
         "time": "14:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "14:30",
         "calendar_endTime": "15:00",
@@ -1494,7 +1533,7 @@ var papersData = {
             "Shiri Lev-Ari"
         ],
         "correspemails": [
-            null,
+            "Anna.Petrova@rhul.ac.uk",
             null,
             null
         ],
@@ -1524,7 +1563,7 @@ var papersData = {
         "time": "17:00",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "17:00",
         "calendar_endTime": "17:30",
@@ -1536,7 +1575,7 @@ var papersData = {
             "Katharina Zeh"
         ],
         "correspemails": [
-            null
+            "katharina.zeh@univie.ac.at"
         ],
         "download": "papers/evolang16_paper_49.pdf",
         "supplementaryMaterial": null,
@@ -1562,7 +1601,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -1606,7 +1645,7 @@ var papersData = {
         "time": "17:00",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "17:00",
         "calendar_endTime": "17:30",
@@ -1623,7 +1662,7 @@ var papersData = {
             "Hannes A. Fellner"
         ],
         "correspemails": [
-            null,
+            "katharina.zeh@univie.ac.at",
             null,
             null,
             null,
@@ -1654,7 +1693,7 @@ var papersData = {
         "time": "12:00",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "12:00",
         "calendar_endTime": "12:30",
@@ -1666,7 +1705,7 @@ var papersData = {
             "J\u00e9r\u00f4me Michaud"
         ],
         "correspemails": [
-            null
+            "jerome.michaud@mdu.se"
         ],
         "download": "papers/evolang16_paper_52.pdf",
         "supplementaryMaterial": null,
@@ -1691,7 +1730,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -1706,7 +1745,7 @@ var papersData = {
             "Viorica Marian"
         ],
         "correspemails": [
-            null,
+            "brian.rocca@northwestern.edu",
             null,
             null,
             null
@@ -1733,7 +1772,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -1748,13 +1787,13 @@ var papersData = {
             "Barend Beekhuizen"
         ],
         "correspemails": [
-            null,
+            "jai@cs.toronto.edu",
             null,
             null,
             null
         ],
         "download": "papers/evolang16_paper_54.pdf",
-        "supplementaryMaterial": null,
+        "supplementaryMaterial": "papers/evolang16_supplementary_material_54.pdf",
         "citations": {
             "bibtex": "bib/evolang16_54.bib",
             "ris": "bib/evolang16_54.ris",
@@ -1776,7 +1815,7 @@ var papersData = {
         "time": "17:30",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "17:30",
         "calendar_endTime": "18:00",
@@ -1789,7 +1828,7 @@ var papersData = {
             "Michelle J. Spierings"
         ],
         "correspemails": [
-            null,
+            "m.maiolini@biology.leidenuniv.nl",
             null
         ],
         "download": "papers/evolang16_paper_56.pdf",
@@ -1818,7 +1857,7 @@ var papersData = {
         "time": "15:00",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "15:00",
         "calendar_endTime": "15:30",
@@ -1834,7 +1873,7 @@ var papersData = {
             "Bodo Winter"
         ],
         "correspemails": [
-            null,
+            "DavidSidhu@cunet.carleton.ca",
             null,
             null,
             null,
@@ -1864,7 +1903,7 @@ var papersData = {
         "time": "12:15",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "12:15",
         "calendar_endTime": "12:45",
@@ -1878,7 +1917,7 @@ var papersData = {
             "Marcus Perlman"
         ],
         "correspemails": [
-            null,
+            "qxt360@student.bham.ac.uk",
             null,
             null
         ],
@@ -1907,7 +1946,7 @@ var papersData = {
         "time": "10:30",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "10:30",
         "calendar_endTime": "11:00",
@@ -1919,7 +1958,7 @@ var papersData = {
             "Laurence Labrune"
         ],
         "correspemails": [
-            null
+            "laurence.labrune@ehess.fr"
         ],
         "download": "papers/evolang16_paper_59.pdf",
         "supplementaryMaterial": null,
@@ -1944,7 +1983,7 @@ var papersData = {
         "time": "12:30",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "12:30",
         "calendar_endTime": "13:00",
@@ -1958,7 +1997,7 @@ var papersData = {
             "Marcus Perlman"
         ],
         "correspemails": [
-            null,
+            "bodo@bodowinter.com",
             null,
             null
         ],
@@ -1984,7 +2023,7 @@ var papersData = {
         "time": "11:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "11:30",
         "calendar_endTime": "12:00",
@@ -1997,7 +2036,7 @@ var papersData = {
             "Gemma Bel-Enguix"
         ],
         "correspemails": [
-            null,
+            "lpitarch@unizar.es",
             null
         ],
         "download": "papers/evolang16_paper_61.pdf",
@@ -2023,7 +2062,7 @@ var papersData = {
         "time": "17:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "17:30",
         "calendar_endTime": "18:00",
@@ -2038,7 +2077,7 @@ var papersData = {
             "Kathleen Currie Hall"
         ],
         "correspemails": [
-            null,
+            "wedel@arizona.edu",
             null,
             null,
             null
@@ -2068,7 +2107,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -2083,7 +2122,7 @@ var papersData = {
             "Tudor Popescu"
         ],
         "correspemails": [
-            null,
+            "haiduk.felix@gmail.com",
             null,
             null,
             null
@@ -2113,7 +2152,7 @@ var papersData = {
         "time": "16:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "16:30",
         "calendar_endTime": "17:00",
@@ -2125,10 +2164,10 @@ var papersData = {
             "Hannes Essfors"
         ],
         "correspemails": [
-            null
+            "hannes.essfors@tuwien.ac.at"
         ],
         "download": "papers/evolang16_paper_64.pdf",
-        "supplementaryMaterial": null,
+        "supplementaryMaterial": "papers/evolang16_supplementary_material_64.pdf",
         "citations": {
             "bibtex": "bib/evolang16_64.bib",
             "ris": "bib/evolang16_64.ris",
@@ -2150,7 +2189,7 @@ var papersData = {
         "time": "16:30",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "16:30",
         "calendar_endTime": "17:00",
@@ -2164,7 +2203,7 @@ var papersData = {
         ],
         "correspemails": [
             null,
-            null
+            "freek.vandevelde@kuleuven.be"
         ],
         "download": "papers/evolang16_paper_65.pdf",
         "supplementaryMaterial": null,
@@ -2189,7 +2228,7 @@ var papersData = {
         "time": "12:00",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "12:00",
         "calendar_endTime": "12:30",
@@ -2201,7 +2240,7 @@ var papersData = {
             "Erkki Luuk"
         ],
         "correspemails": [
-            null
+            "erkkil@gmail.com"
         ],
         "download": "papers/evolang16_paper_66.pdf",
         "supplementaryMaterial": null,
@@ -2227,7 +2266,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -2244,7 +2283,7 @@ var papersData = {
             "Adam Schembri"
         ],
         "correspemails": [
-            null,
+            "n.fox.1@bham.ac.uk",
             null,
             null,
             null,
@@ -2274,7 +2313,7 @@ var papersData = {
         "time": "12:15",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "12:15",
         "calendar_endTime": "12:45",
@@ -2288,7 +2327,7 @@ var papersData = {
             "Asl\u0131 \u00d6zy\u00fcrek"
         ],
         "correspemails": [
-            null,
+            "Anita.Slonimska@mpi.nl",
             null,
             null
         ],
@@ -2316,7 +2355,7 @@ var papersData = {
         "time": "12:45",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "12:45",
         "calendar_endTime": "13:15",
@@ -2331,7 +2370,7 @@ var papersData = {
             "Leanne Proops"
         ],
         "correspemails": [
-            null,
+            "sasha.donnier@port.ac.uk",
             null,
             null,
             null
@@ -2362,7 +2401,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -2424,7 +2463,7 @@ var papersData = {
             "Hannah Lutzenberger"
         ],
         "correspemails": [
-            null
+            "hannah.lutzenberger@hu-berlin.de"
         ],
         "download": "papers/evolang16_paper_71.pdf",
         "supplementaryMaterial": null,
@@ -2450,7 +2489,7 @@ var papersData = {
         "time": "10:15",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "10:15",
         "calendar_endTime": "10:45",
@@ -2463,8 +2502,8 @@ var papersData = {
             "Felix Haiduk"
         ],
         "correspemails": [
-            null,
-            null
+            "tudor.popescu@univie.ac.at",
+            "felix.haiduk@univie.ac.at"
         ],
         "download": "papers/evolang16_paper_72.pdf",
         "supplementaryMaterial": null,
@@ -2489,7 +2528,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -2502,7 +2541,7 @@ var papersData = {
             "Gemma Boleda"
         ],
         "correspemails": [
-            null,
+            "cesu.urker@upf.edu",
             null
         ],
         "download": "papers/evolang16_paper_75.pdf",
@@ -2528,7 +2567,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -2541,7 +2580,7 @@ var papersData = {
             "Joclyn Villegas"
         ],
         "correspemails": [
-            null,
+            "hlyn@southalabama.edu",
             null
         ],
         "download": "papers/evolang16_paper_76.pdf",
@@ -2568,7 +2607,7 @@ var papersData = {
         "time": "15:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "15:30",
         "calendar_endTime": "16:00",
@@ -2582,7 +2621,7 @@ var papersData = {
             "Katrin Erk"
         ],
         "correspemails": [
-            null,
+            "wechsler@austin.utexas.edu",
             null,
             null
         ],
@@ -2609,7 +2648,7 @@ var papersData = {
         "time": "15:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "15:30",
         "calendar_endTime": "16:00",
@@ -2625,7 +2664,7 @@ var papersData = {
             "Limor Raviv"
         ],
         "correspemails": [
-            null,
+            "pleyer@umk.pl",
             null,
             null,
             null,
@@ -2654,7 +2693,7 @@ var papersData = {
         "time": "13:00",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "13:00",
         "calendar_endTime": "13:30",
@@ -2669,7 +2708,7 @@ var papersData = {
         ],
         "correspemails": [
             null,
-            null,
+            "akelly@campbell.edu",
             null
         ],
         "download": "papers/evolang16_paper_79.pdf",
@@ -2697,7 +2736,7 @@ var papersData = {
         "time": "11:45",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "11:45",
         "calendar_endTime": "12:15",
@@ -2713,7 +2752,7 @@ var papersData = {
         "correspemails": [
             null,
             null,
-            null
+            "jonas.noelle@glasgow.ac.uk"
         ],
         "download": "papers/evolang16_paper_81.pdf",
         "supplementaryMaterial": null,
@@ -2739,7 +2778,7 @@ var papersData = {
         "time": "10:45",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "10:45",
         "calendar_endTime": "11:15",
@@ -2754,10 +2793,10 @@ var papersData = {
             "Noga Zaslavsky"
         ],
         "correspemails": [
+            "ni2128@nyu.edu",
             null,
             null,
-            null,
-            null
+            "nogaz@nyu.edu"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -2795,7 +2834,7 @@ var papersData = {
             "Angela D. Friederici"
         ],
         "correspemails": [
-            null,
+            "rettenbrein@cbs.mpg.de",
             null
         ],
         "download": "papers/evolang16_paper_84.pdf",
@@ -2822,7 +2861,7 @@ var papersData = {
         "time": "09:00",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "09:00",
         "calendar_endTime": "09:30",
@@ -2837,7 +2876,7 @@ var papersData = {
             "Thomas Brochhagen"
         ],
         "correspemails": [
-            null,
+            "yulia.yakubenkova@upf.edu",
             null,
             null,
             null
@@ -2866,7 +2905,7 @@ var papersData = {
         "time": "12:15",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "12:15",
         "calendar_endTime": "12:45",
@@ -2880,7 +2919,7 @@ var papersData = {
             "Petros Kaklamanis"
         ],
         "correspemails": [
-            null,
+            "gareth.roberts@ling.upenn.edu",
             null,
             null
         ],
@@ -2909,7 +2948,7 @@ var papersData = {
         "time": "11:45",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "11:45",
         "calendar_endTime": "12:15",
@@ -2924,7 +2963,7 @@ var papersData = {
             "Kenny Smith"
         ],
         "correspemails": [
-            null,
+            "jonas.noelle@glasgow.ac.uk",
             null,
             null,
             null
@@ -2953,7 +2992,7 @@ var papersData = {
         "time": "14:30",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "14:30",
         "calendar_endTime": "15:00",
@@ -2972,7 +3011,7 @@ var papersData = {
             "Simon Fisher"
         ],
         "correspemails": [
-            null,
+            "carmen.ramoser@mpi.nl",
             null,
             null,
             null,
@@ -3001,7 +3040,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -3019,7 +3058,7 @@ var papersData = {
             null,
             null,
             null,
-            null
+            "jonas.noelle@glasgow.ac.uk"
         ],
         "download": "papers/evolang16_paper_90.pdf",
         "supplementaryMaterial": null,
@@ -3045,7 +3084,7 @@ var papersData = {
         "time": "17:00",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "17:00",
         "calendar_endTime": "17:30",
@@ -3059,7 +3098,7 @@ var papersData = {
             "Simone Pika"
         ],
         "correspemails": [
-            null,
+            "basvanboekholt@hotmail.com",
             null,
             null
         ],
@@ -3089,7 +3128,7 @@ var papersData = {
         "time": "12:45",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "12:45",
         "calendar_endTime": "13:15",
@@ -3102,7 +3141,7 @@ var papersData = {
             "S\u0142awomir Wacewicz"
         ],
         "correspemails": [
-            null,
+            "40010189@parisnanterre.fr",
             null
         ],
         "download": "papers/evolang16_paper_92.pdf",
@@ -3128,7 +3167,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -3141,7 +3180,7 @@ var papersData = {
             "Shiri Lev-Ari"
         ],
         "correspemails": [
-            null,
+            "theresa.matzinger@univie.ac.at",
             null
         ],
         "download": "papers/evolang16_paper_93.pdf",
@@ -3166,7 +3205,7 @@ var papersData = {
         "time": "14:30",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "14:30",
         "calendar_endTime": "15:00",
@@ -3180,12 +3219,12 @@ var papersData = {
             "Raquel G. Alhama"
         ],
         "correspemails": [
-            null,
+            "nabilasiregar.ac@gmail.com",
             null,
             null
         ],
         "download": "papers/evolang16_paper_94.pdf",
-        "supplementaryMaterial": null,
+        "supplementaryMaterial": "papers/evolang16_supplementary_material_94.pdf",
         "citations": {
             "bibtex": "bib/evolang16_94.bib",
             "ris": "bib/evolang16_94.ris",
@@ -3207,7 +3246,7 @@ var papersData = {
         "time": "11:45",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "11:45",
         "calendar_endTime": "12:15",
@@ -3221,7 +3260,7 @@ var papersData = {
             "Stefan Hartmann"
         ],
         "correspemails": [
-            null,
+            "andreas.baumann@univie.ac.at",
             null,
             null
         ],
@@ -3249,7 +3288,7 @@ var papersData = {
         "time": "12:15",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "12:15",
         "calendar_endTime": "12:45",
@@ -3262,8 +3301,8 @@ var papersData = {
             "Stephen Wechsler"
         ],
         "correspemails": [
-            null,
-            null
+            "james.w.shearer@austin.utexas.edu",
+            "wechsler@austin.utexas.edu"
         ],
         "download": "papers/evolang16_paper_96.pdf",
         "supplementaryMaterial": null,
@@ -3288,7 +3327,7 @@ var papersData = {
         "time": "12:15",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "12:15",
         "calendar_endTime": "12:45",
@@ -3306,7 +3345,7 @@ var papersData = {
             null,
             null,
             null,
-            null
+            "axel.ekstrom@gmail.com"
         ],
         "download": "papers/evolang16_paper_97.pdf",
         "supplementaryMaterial": null,
@@ -3330,7 +3369,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -3343,7 +3382,7 @@ var papersData = {
             "J\u00e9r\u00f4me Michaud"
         ],
         "correspemails": [
-            null,
+            "anna.jon-and@su.se",
             null
         ],
         "download": "papers/evolang16_paper_99.pdf",
@@ -3371,7 +3410,7 @@ var papersData = {
         "time": "12:45",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "12:45",
         "calendar_endTime": "13:15",
@@ -3385,8 +3424,8 @@ var papersData = {
             "Anna Jon-And"
         ],
         "correspemails": [
-            null,
-            null,
+            "hedvig_skirgard@eva.mpg.de",
+            "jerome.michaud@mdu.se",
             null
         ],
         "download": "papers/evolang16_paper_100.pdf",
@@ -3413,7 +3452,7 @@ var papersData = {
         "time": "15:00",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "15:00",
         "calendar_endTime": "15:30",
@@ -3427,7 +3466,7 @@ var papersData = {
             "S\u0142awomir Wacewicz"
         ],
         "correspemails": [
-            null,
+            "vfiala@umk.pl",
             null,
             null
         ],
@@ -3454,7 +3493,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -3470,7 +3509,7 @@ var papersData = {
         "correspemails": [
             null,
             null,
-            null
+            "conor.houghton@bristol.ac.uk"
         ],
         "download": "papers/evolang16_paper_102.pdf",
         "supplementaryMaterial": null,
@@ -3493,7 +3532,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -3506,7 +3545,7 @@ var papersData = {
             "Hiroki Koda"
         ],
         "correspemails": [
-            null,
+            "mireikin323@g.ecc.u-tokyo.ac.jp",
             null
         ],
         "download": null,
@@ -3547,7 +3586,7 @@ var papersData = {
             "Tao Gong"
         ],
         "correspemails": [
-            null,
+            "leili@science.ru.nl",
             null
         ],
         "download": "papers/evolang16_paper_104.pdf",
@@ -3576,7 +3615,7 @@ var papersData = {
         "time": "15:30",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "15:30",
         "calendar_endTime": "16:00",
@@ -3592,7 +3631,7 @@ var papersData = {
             "Jennifer Culbertson"
         ],
         "correspemails": [
-            null,
+            "ruizhezhou1999@gmail.com",
             null,
             null,
             null,
@@ -3622,7 +3661,7 @@ var papersData = {
         "time": "10:00",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "10:00",
         "calendar_endTime": "10:30",
@@ -3661,7 +3700,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -3675,7 +3714,7 @@ var papersData = {
             "Federica Amici"
         ],
         "correspemails": [
-            null,
+            "axel.ekstrom@su.se",
             null,
             null
         ],
@@ -3701,7 +3740,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -3717,7 +3756,7 @@ var papersData = {
             "Anca Daniela Dinu"
         ],
         "correspemails": [
-            null,
+            "liviu.p.dinu@gmail.com",
             null,
             null,
             null,
@@ -3746,7 +3785,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -3762,7 +3801,7 @@ var papersData = {
             "\u0160\u00e1rka Kadav\u00e1"
         ],
         "correspemails": [
-            null,
+            "gillyr34@gmail.com",
             null,
             null,
             null,
@@ -3792,7 +3831,7 @@ var papersData = {
         "time": "09:30",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "09:30",
         "calendar_endTime": "10:00",
@@ -3805,7 +3844,7 @@ var papersData = {
             "Seungjoon Cho"
         ],
         "correspemails": [
-            null,
+            "dodo@korea.ac.kr",
             null
         ],
         "download": "papers/evolang16_paper_111.pdf",
@@ -3834,7 +3873,7 @@ var papersData = {
         "time": "11:45",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "11:45",
         "calendar_endTime": "12:15",
@@ -3848,7 +3887,7 @@ var papersData = {
         ],
         "correspemails": [
             null,
-            null
+            "dodo@korea.ac.kr"
         ],
         "download": "papers/evolang16_paper_112.pdf",
         "supplementaryMaterial": null,
@@ -3875,7 +3914,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -3889,7 +3928,7 @@ var papersData = {
             "Jaesang Cho"
         ],
         "correspemails": [
-            null,
+            "sjcho1123@korea.ac.kr",
             null,
             null
         ],
@@ -3930,7 +3969,7 @@ var papersData = {
             "Takashi Hashimoto"
         ],
         "correspemails": [
-            null,
+            "ibuki_iwamura@jaist.ac.jp",
             null
         ],
         "download": "papers/evolang16_paper_114.pdf",
@@ -3956,7 +3995,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -3971,7 +4010,7 @@ var papersData = {
             "Kenny Smith"
         ],
         "correspemails": [
-            null,
+            "a.schembri@bham.ac.uk",
             null,
             null,
             null
@@ -3998,7 +4037,7 @@ var papersData = {
         "time": "15:00",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "15:00",
         "calendar_endTime": "15:30",
@@ -4012,7 +4051,7 @@ var papersData = {
         ],
         "correspemails": [
             null,
-            null
+            "steven.moran@unine.ch"
         ],
         "download": "papers/evolang16_paper_118.pdf",
         "supplementaryMaterial": null,
@@ -4037,7 +4076,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -4055,7 +4094,7 @@ var papersData = {
             "Alban Lemasson"
         ],
         "correspemails": [
-            null,
+            "habiblise@gmail.com",
             null,
             null,
             null,
@@ -4088,7 +4127,7 @@ var papersData = {
         "time": "14:30",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "14:30",
         "calendar_endTime": "15:00",
@@ -4103,7 +4142,7 @@ var papersData = {
             "Limor Raviv"
         ],
         "correspemails": [
-            null,
+            "lois.dona@mpi.nl",
             null,
             null,
             null
@@ -4134,7 +4173,7 @@ var papersData = {
         "time": "15:30",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "15:30",
         "calendar_endTime": "16:00",
@@ -4149,7 +4188,7 @@ var papersData = {
             "Adrien Meguerditchian"
         ],
         "correspemails": [
-            null,
+            "siham.bouziane@univ-amu.fr",
             null,
             null,
             null
@@ -4178,7 +4217,7 @@ var papersData = {
         "time": "15:30",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "15:30",
         "calendar_endTime": "16:00",
@@ -4190,7 +4229,7 @@ var papersData = {
             "Carlos Ugarte"
         ],
         "correspemails": [
-            null
+            "carlos_barrientos_ugarte@eva.mpg.de"
         ],
         "download": "papers/evolang16_paper_123.pdf",
         "supplementaryMaterial": null,
@@ -4228,7 +4267,7 @@ var papersData = {
             "Juan Perote-Pe\u00f1a"
         ],
         "correspemails": [
-            null
+            "jperote@unizar.es"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -4264,7 +4303,7 @@ var papersData = {
             "Chiara Anceschi"
         ],
         "correspemails": [
-            null
+            "chiara.anceschi@uib.no"
         ],
         "download": "papers/evolang16_paper_125.pdf",
         "supplementaryMaterial": null,
@@ -4290,7 +4329,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -4303,7 +4342,7 @@ var papersData = {
             "Gareth Roberts"
         ],
         "correspemails": [
-            null,
+            "altenhof@wisc.edu",
             null
         ],
         "download": "papers/evolang16_paper_126.pdf",
@@ -4328,7 +4367,7 @@ var papersData = {
         "time": "15:00",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "15:00",
         "calendar_endTime": "15:30",
@@ -4345,7 +4384,7 @@ var papersData = {
         ],
         "correspemails": [
             null,
-            null,
+            "stefano.ghinoi@unimore.it",
             null,
             null,
             null
@@ -4375,7 +4414,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -4389,7 +4428,7 @@ var papersData = {
             "Marek Placi\u0144ski"
         ],
         "correspemails": [
-            null,
+            "mboruta@umk.pl",
             null,
             null
         ],
@@ -4417,7 +4456,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -4430,7 +4469,7 @@ var papersData = {
             "Stephen Ferrigno"
         ],
         "correspemails": [
-            null,
+            "etramm@wisc.edu",
             null
         ],
         "download": "papers/evolang16_paper_129.pdf",
@@ -4455,7 +4494,7 @@ var papersData = {
         "time": "15:00",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "15:00",
         "calendar_endTime": "15:30",
@@ -4469,7 +4508,7 @@ var papersData = {
             "Robert D. Hawkins"
         ],
         "correspemails": [
-            null,
+            "cbergey@stanford.edu",
             null,
             null
         ],
@@ -4498,7 +4537,7 @@ var papersData = {
         "time": "10:00",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "10:00",
         "calendar_endTime": "10:30",
@@ -4512,7 +4551,7 @@ var papersData = {
             "Samuel J Cheyette"
         ],
         "correspemails": [
-            null,
+            "sferrigno@wisc.edu",
             null,
             null
         ],
@@ -4541,7 +4580,7 @@ var papersData = {
         "time": "14:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "14:30",
         "calendar_endTime": "15:00",
@@ -4555,12 +4594,12 @@ var papersData = {
             "Lucas Weber"
         ],
         "correspemails": [
-            null,
+            "a-d.mihai@soton.ac.uk",
             null,
             null
         ],
         "download": "papers/evolang16_paper_132.pdf",
-        "supplementaryMaterial": null,
+        "supplementaryMaterial": "papers/evolang16_supplementary_material_132.pdf",
         "citations": {
             "bibtex": "bib/evolang16_132.bib",
             "ris": "bib/evolang16_132.ris",
@@ -4581,7 +4620,7 @@ var papersData = {
         "time": "09:30",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "09:30",
         "calendar_endTime": "10:00",
@@ -4594,11 +4633,11 @@ var papersData = {
             "Daniela Mihai"
         ],
         "correspemails": [
-            null,
+            "np5n22@soton.ac.uk",
             null
         ],
         "download": "papers/evolang16_paper_133.pdf",
-        "supplementaryMaterial": null,
+        "supplementaryMaterial": "papers/evolang16_supplementary_material_133.pdf",
         "citations": {
             "bibtex": "bib/evolang16_133.bib",
             "ris": "bib/evolang16_133.ris",
@@ -4619,7 +4658,7 @@ var papersData = {
         "time": "10:00",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "10:00",
         "calendar_endTime": "10:30",
@@ -4631,7 +4670,7 @@ var papersData = {
             "Joana Rossello"
         ],
         "correspemails": [
-            null
+            "joana.rossello@ub.edu"
         ],
         "download": "papers/evolang16_paper_134.pdf",
         "supplementaryMaterial": null,
@@ -4658,7 +4697,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -4672,7 +4711,7 @@ var papersData = {
             "Antonio Ben\u00edtez-Burraco"
         ],
         "correspemails": [
-            null,
+            "sihanc@mit.edu",
             null,
             null
         ],
@@ -4698,7 +4737,7 @@ var papersData = {
         "time": "17:00",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "17:00",
         "calendar_endTime": "17:30",
@@ -4715,7 +4754,7 @@ var papersData = {
             "Bret Beheim"
         ],
         "correspemails": [
-            null,
+            "peeter_tinits@eva.mpg.de",
             null,
             null,
             null,
@@ -4746,7 +4785,7 @@ var papersData = {
         "time": "17:30",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "17:30",
         "calendar_endTime": "18:00",
@@ -4760,7 +4799,7 @@ var papersData = {
             "Margaret Schedel"
         ],
         "correspemails": [
-            null,
+            "katie.mudd@ai.vub.ac.be",
             null,
             null
         ],
@@ -4803,7 +4842,7 @@ var papersData = {
             "Blair C. Armstrong"
         ],
         "correspemails": [
-            null,
+            "tobias.ungerer@utoronto.ca",
             null,
             null,
             null,
@@ -4832,7 +4871,7 @@ var papersData = {
         "time": "14:30",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "14:30",
         "calendar_endTime": "15:00",
@@ -4845,7 +4884,7 @@ var papersData = {
             "Robert Kluender"
         ],
         "correspemails": [
-            null,
+            "emily.d.avian.47@gmail.com",
             null
         ],
         "download": "papers/evolang16_paper_140.pdf",
@@ -4872,7 +4911,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -4886,7 +4925,7 @@ var papersData = {
             "Svetlana Kuleshova"
         ],
         "correspemails": [
-            null,
+            "pleyer@umk.pl",
             null,
             null
         ],
@@ -4915,7 +4954,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -4931,7 +4970,7 @@ var papersData = {
         "correspemails": [
             null,
             null,
-            null
+            "pleyer@umk.pl"
         ],
         "download": "papers/evolang16_paper_142.pdf",
         "supplementaryMaterial": null,
@@ -4958,7 +4997,7 @@ var papersData = {
         "time": "15:30",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "15:30",
         "calendar_endTime": "16:00",
@@ -4971,7 +5010,7 @@ var papersData = {
             "Marcus Perlman"
         ],
         "correspemails": [
-            null,
+            "nero.peters@stud.uni-goettingen.de",
             null
         ],
         "download": "papers/evolang16_paper_143.pdf",
@@ -5008,7 +5047,7 @@ var papersData = {
         "time": "15:30",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "15:30",
         "calendar_endTime": "16:00",
@@ -5024,7 +5063,7 @@ var papersData = {
         ],
         "correspemails": [
             null,
-            null,
+            "r.ryder@imperial.ac.uk",
             null,
             null
         ],
@@ -5066,7 +5105,7 @@ var papersData = {
             "Robert Van Rooij"
         ],
         "correspemails": [
-            null,
+            "t.johnson@uva.nl",
             null,
             null,
             null
@@ -5094,7 +5133,7 @@ var papersData = {
         "time": "12:30",
         "location": "Large Auditorium (Track b)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "12:30",
         "calendar_endTime": "13:00",
@@ -5123,7 +5162,7 @@ var papersData = {
             "Giuseppe Longobardi"
         ],
         "correspemails": [
-            null,
+            "dlk2@york.ac.uk",
             null,
             null,
             null,
@@ -5164,7 +5203,7 @@ var papersData = {
         "time": "18:00",
         "location": "The House of Culture \"Boris Hristov\"",
         "prestype": "poster",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-08",
         "calendar_startTime": "18:00",
         "calendar_endTime": "18:30",
@@ -5176,7 +5215,7 @@ var papersData = {
             "Daniel W. Smith"
         ],
         "correspemails": [
-            null
+            "dwsmith@whoi.edu"
         ],
         "download": "papers/evolang16_paper_147.pdf",
         "supplementaryMaterial": null,
@@ -5201,7 +5240,7 @@ var papersData = {
         "time": "10:45",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "10:45",
         "calendar_endTime": "11:15",
@@ -5215,7 +5254,7 @@ var papersData = {
             "Marlen Fr\u00f6hlich"
         ],
         "correspemails": [
-            null,
+            "franziska.wegdell@ifu.uni-tuebingen.de",
             null,
             null
         ],
@@ -5241,7 +5280,7 @@ var papersData = {
         "time": "16:00",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "16:00",
         "calendar_endTime": "16:30",
@@ -5256,7 +5295,7 @@ var papersData = {
             "Frank Brisard"
         ],
         "correspemails": [
-            null,
+            "astrid.dewit@uantwerpen.be",
             null,
             null,
             null
@@ -5283,7 +5322,7 @@ var papersData = {
         "time": "12:45",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
         "calendar_startTime": "12:45",
         "calendar_endTime": "13:15",
