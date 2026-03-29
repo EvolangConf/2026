@@ -711,7 +711,7 @@ var scheduleData = [
             {
                 "startTime": "14:30",
                 "endTime": "15:30",
-                "event": "Plenary \"Modelling the evolution of syntax\" (Alessandro Treves)",
+                "event": "Plenary \"Modelling the evolution of syntax as a disordered physical system\" (Alessandro Treves)",
                 "talks": null,
                 "url": "plenary.html?speaker=treves",
                 "venue": "Concert Hall",

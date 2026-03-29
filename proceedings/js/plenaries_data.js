@@ -27,7 +27,7 @@ var plenariesData = {
     },
     "treves": {
         "name": "Alessandro Treves",
-        "title": "Modelling the evolution of syntax",
+        "title": "Modelling the evolution of syntax as a disordered physical system",
         "url": "https://phdcns.sissa.it/faculty/alessandro-treves",
         "affiliation1": "SISSA, Italy",
         "affiliation2": "",
