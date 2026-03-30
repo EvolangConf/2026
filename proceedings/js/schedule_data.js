@@ -771,8 +771,8 @@ var scheduleData = [
                 "extra": null
             },
             {
-                "startTime": "17:00",
-                "endTime": "17:15",
+                "startTime": "17:15",
+                "endTime": "17:45",
                 "event": "Award ceremony & closing remarks",
                 "talks": null,
                 "url": null,
