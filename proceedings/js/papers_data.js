@@ -3921,29 +3921,29 @@ var papersData = {
         "extra": null
     },
     "113": {
-        "title": "Do humans imitate generative AI in journalism? Evidence from Korean news corpora",
+        "title": "Do humans imitate generative AI? Evidence from Korean conversation and news corpora",
         "authors": [
             "Seungjoon Cho",
-            "Sung Do Kim",
-            "Jaesang Cho"
+            "Jaesang Cho",
+            "Sung Do Kim"
         ],
         "correspemails": [
-            "sjcho1123@korea.ac.kr",
             null,
+            "dodo@korea.ac.kr",
             null
         ],
-        "download": null,
+        "download": "papers/evolang16_paper_113.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang16_113.bib",
             "ris": "bib/evolang16_113.ris",
-            "copy": "Cho, S., Kim, S. D. & Cho, J. (2026). Do humans imitate generative AI in journalism? Evidence from Korean news corpora. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
+            "copy": "Cho, S., Cho, J. & Kim, S. D. (2026). Do humans imitate generative AI? Evidence from Korean conversation and news corpora. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
         },
         "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Do+humans+imitate+generative+AI+in+journalism%3F+Evidence+from+Korean+news+corpora%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D113",
-            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D113&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22Do+humans+imitate+generative+AI+in+journalism%3F+Evidence+from+Korean+news+corpora%22+%23EvolangXVI"
+            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Do+humans+imitate+generative+AI%3F+Evidence+from+Korean+conversation+and+news+corpora%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D113",
+            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D113&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22Do+humans+imitate+generative+AI%3F+Evidence+from+Korean+conversation+and+news+corpora%22+%23EvolangXVI"
         },
-        "summary": "To understand how language emerges and operates, we must understand processes of language change. Today, change may be increasingly shaped by generative AI (GenAI). While prior work has focused on lexical frequency, this study tests whether broader linguistic shifts are detectable in Korean journalism, a highly conventionalized register where GenAI has increasingly been adopted in parts of news production since 2023. Using the National Institute of Korean Language\u2019s Modu Corpus, we compare a pre-GenAI baseline year (2022) with two post-adoption years (2023-2024), normalizing phrase rates and controlling article length. We estimate a GenAI direction via paired human-GenAI rewrites and derive a GenAI-directional phrasing index from systematic changes in recurrent newsroom expressions. The paired experiment shows a clear directional signature: GenAI favors additive and organizing markers while reducing uncertainty/appearance constructions. In the full corpora, year-to-year movement is modest and sensitive to compositional shifts, especially changes in outlet mix.",
+        "summary": "While the influence of generative AI on language change is increasingly documented in English, evidence in other languages remains scarce. This study investigates AI-induced linguistic shifts in Korean by analyzing two Modu corpora from the National Institute of Korean Language: a conversation corpus (2021\u20132024; 11,997 texts; 69.3 million characters) and a newspaper corpus (2019\u20132023; 4.51 million articles; 4.73 billion characters). In conversation, we find quasi-causal evidence for the lexical diffusion of AI-overgenerated words, most notably the post-2023 rise of the adverb hoksi 'perhaps/by any chance'. Conversely, the newspaper corpus exhibits a broader structural shift toward AI-aligned discourse markers (e.g., ttohan 'moreover', hanphyen 'meanwhile') and denser syntactic packaging. However, the stylistic shifts in newspapers may simply reflect journalists' direct use of AI for rewriting, rather than human imitation.",
         "keywords": [
             "language change",
             "large language models",
@@ -3956,7 +3956,7 @@ var papersData = {
         "time": "12:00",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "12:00",
         "calendar_endTime": "12:30",
