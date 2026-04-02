@@ -3929,8 +3929,8 @@ var papersData = {
         ],
         "correspemails": [
             null,
-            "dodo@korea.ac.kr",
-            null
+            null,
+            "dodo@korea.ac.kr"
         ],
         "download": "papers/evolang16_paper_113.pdf",
         "supplementaryMaterial": null,
@@ -4221,44 +4221,6 @@ var papersData = {
         "calendar_startDate": "2026-04-10",
         "calendar_startTime": "15:30",
         "calendar_endTime": "16:00",
-        "extra": null
-    },
-    "123": {
-        "title": "Ancestral state reconstruction of sound correspondence patterns and horizontal gene transfer",
-        "authors": [
-            "Carlos Ugarte"
-        ],
-        "correspemails": [
-            "carlos_barrientos_ugarte@eva.mpg.de"
-        ],
-        "download": "papers/evolang16_paper_123.pdf",
-        "supplementaryMaterial": null,
-        "citations": {
-            "bibtex": "bib/evolang16_123.bib",
-            "ris": "bib/evolang16_123.ris",
-            "copy": "Ugarte, C. (2026). Ancestral state reconstruction of sound correspondence patterns and horizontal gene transfer. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
-        },
-        "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Ancestral+state+reconstruction+of+sound+correspondence+patterns+and+horizontal+gene+transfer%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D123",
-            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D123&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22Ancestral+state+reconstruction+of+sound+correspondence+patterns+and+horizontal+gene+transfer%22+%23EvolangXVI"
-        },
-        "summary": "This contribution demonstrates the application of Ancestral State Reconstruction (ASR), a method from evolutionary biology for inferring past states from present-day data, to lexicostatistical data for understanding language evolution. Unlike previous linguistic applications of ASR that focused on cognate sets, our approach operates at a finer granularity by applying ASR to sound correspondences, rather than to whole words. This allows for the direct reconstruction of proto-sounds and a more nuanced investigation of regular and irregular sound changes. We employ an algorithm for automatic sound correspondence detection and use the Maximum Parsimony principle for reconstruction. Preliminary results successfully reconstruct proto-sounds and identify both regular correspondences between sounds and unexpected irregularity, highlighting potential borrowing. This replicable pipeline aims to emulate the classical comparative method by automating steps of its practical workflow that can be revised at each stage of the process by language and bioinformatic experts.",
-        "keywords": [
-            "computational historical linguistics",
-            "phylolinguistics",
-            "ancestral state reconstruction",
-            "sound change",
-            "comparative method"
-        ],
-        "weburl": "paper.html?nr=123",
-        "date": "Friday, 10 April 2026",
-        "time": "12:30",
-        "location": "Small Auditorium (Track c)",
-        "prestype": "talk",
-        "license": null,
-        "calendar_startDate": "2026-04-10",
-        "calendar_startTime": "12:30",
-        "calendar_endTime": "13:00",
         "extra": null
     },
     "124": {

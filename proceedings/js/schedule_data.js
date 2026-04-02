@@ -681,7 +681,7 @@ var scheduleData = [
                             "papers": [
                                 59,
                                 145,
-                                123
+                                null
                             ]
                         },
                         {
