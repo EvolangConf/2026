@@ -38,8 +38,9 @@ $(document).ready(function() {
 			}
 		});
 
-		$("#tweetPaper").attr("href",paperInfo.sharing.twitter);
-		$("#facebookPaper").attr("href",paperInfo.sharing.facebook);
+		$("#blueskyPaper").attr("href", paperInfo.sharing.bluesky);
+		$("#facebookPaper").attr("href", paperInfo.sharing.facebook);
+		$("#tweetPaper").attr("href", paperInfo.sharing.twitter);
 		$("#ptitle").html(paperInfo.title);
 
 		$("#summary").html(paperInfo.summary);
