@@ -37,7 +37,7 @@ function eventRow(timeSlot) {
                     )
                 )
             ).append(
-                $("<div>", {"class": "col-md-6 col-sm-6"}).append(
+                $("<div>", {"class": "col-md-6 col-sm-6", "style": "margin-bottom:10px;"}).append(
                     $("<p>", {"class": "stitle"}).append(timeSlot.url != null ? 
                         $("<a>", {"href": timeSlot.url}).text(timeSlot.event) :
                         document.createTextNode(timeSlot.event)
