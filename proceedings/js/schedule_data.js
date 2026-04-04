@@ -7,9 +7,27 @@ var scheduleData = [
             {
                 "startTime": "13:30",
                 "endTime": "18:00",
-                "event": "Workshops \u2013 Part I",
+                "event": "Workshop \u201cA window into Ursch\u00f6pfung: Primary iconic coinage in spoken languages\u201d",
                 "talks": null,
-                "url": "https://sites.google.com/york.ac.uk/evolang2026/programme",
+                "url": "https://sites.google.com/view/awindowintourschpfung",
+                "venue": "The Ramada Trimontium Hotel",
+                "extra": null
+            },
+            {
+                "startTime": "13:30",
+                "endTime": "18:00",
+                "event": "Workshop \u201cHands-on Workshop: Swarm Robotics as a test bed for the study of language emergence\u201d",
+                "talks": null,
+                "url": "https://romamile.com/SwarmLangEmergence/",
+                "venue": "The Ramada Trimontium Hotel",
+                "extra": null
+            },
+            {
+                "startTime": "13:30",
+                "endTime": "18:00",
+                "event": "Workshop \u201cThe Geography of Linguistic Evolution\u201d",
+                "talks": null,
+                "url": "https://www.uu.nl/staff/JAVerstegen/Extra1",
                 "venue": "The Ramada Trimontium Hotel",
                 "extra": null
             },
@@ -560,9 +578,27 @@ var scheduleData = [
             {
                 "startTime": "09:00",
                 "endTime": "13:00",
-                "event": "Workshops \u2013 Part II",
+                "event": "Workshop \u201cAI in Language Evolution\u201d",
                 "talks": null,
-                "url": "https://sites.google.com/york.ac.uk/evolang2026/programme",
+                "url": "https://ai.vub.ac.be/~bart/AI_in_EvoLang/",
+                "venue": "The Ramada Trimontium Hotel",
+                "extra": null
+            },
+            {
+                "startTime": "09:00",
+                "endTime": "13:00",
+                "event": "Workshop \u201cGreat-ape Pragmatics\u201d",
+                "talks": null,
+                "url": "https://www.evoprag.org/great-ape-pragmatics",
+                "venue": "The Ramada Trimontium Hotel",
+                "extra": null
+            },
+            {
+                "startTime": "09:00",
+                "endTime": "13:00",
+                "event": "Workshop \u201cTriangulating Human Diversity: bringing together linguistic, biological and socio-cultural differences\u201d",
+                "talks": null,
+                "url": "https://sites.google.com/view/triangulating-human-diversity/",
                 "venue": "The Ramada Trimontium Hotel",
                 "extra": null
             },
