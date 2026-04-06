@@ -791,12 +791,12 @@ var scheduleData = [
                     "tracks": [
                         {
                             "name": "11a \u2013 Concert Hall",
-                            "chair": null,
+                            "chair": "Stefan Hartmann",
                             "extra": null
                         },
                         {
                             "name": "11b \u2013 Large Auditorium",
-                            "chair": "Stefan Hartmann",
+                            "chair": "Gary Lupyan",
                             "extra": null
                         },
                         {
