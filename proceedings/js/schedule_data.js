@@ -73,14 +73,17 @@ var scheduleData = [
                     "tracks": [
                         {
                             "name": "1a \u2013 Concert Hall",
+                            "chair": "Peeter Tinits",
                             "extra": null
                         },
                         {
                             "name": "1b \u2013 Large Auditorium",
+                            "chair": "Theresa Matzinger",
                             "extra": null
                         },
                         {
                             "name": "1c \u2013 Small Auditorium",
+                            "chair": "I-Ying Lin",
                             "extra": null
                         }
                     ],
@@ -126,14 +129,17 @@ var scheduleData = [
                     "tracks": [
                         {
                             "name": "2a \u2013 Concert Hall",
+                            "chair": "Aleksandra \u0106wiek",
                             "extra": null
                         },
                         {
                             "name": "2b \u2013 Large Auditorium",
+                            "chair": "Bart de Boer",
                             "extra": null
                         },
                         {
                             "name": "2c \u2013 Small Auditorium",
+                            "chair": "Ruslana Margova",
                             "extra": null
                         }
                     ],
@@ -188,14 +194,17 @@ var scheduleData = [
                     "tracks": [
                         {
                             "name": "3a \u2013 Concert Hall",
+                            "chair": "Limor Raviv",
                             "extra": null
                         },
                         {
                             "name": "3b \u2013 Large Auditorium",
+                            "chair": "Gonzalo Maestro Paredes",
                             "extra": null
                         },
                         {
                             "name": "3c \u2013 Small Auditorium",
+                            "chair": "Heidi Lyn",
                             "extra": null
                         }
                     ],
@@ -250,14 +259,17 @@ var scheduleData = [
                     "tracks": [
                         {
                             "name": "4a \u2013 Concert Hall",
+                            "chair": "Limor Raviv",
                             "extra": null
                         },
                         {
                             "name": "4b \u2013 Large Auditorium",
+                            "chair": "Andres Karjus",
                             "extra": null
                         },
                         {
                             "name": "4c \u2013 Small Auditorium",
+                            "chair": "Stefan Hartmann",
                             "extra": null
                         }
                     ],
@@ -328,14 +340,17 @@ var scheduleData = [
                     "tracks": [
                         {
                             "name": "5a \u2013 Concert Hall",
+                            "chair": "Aleksandra \u0106wiek",
                             "extra": null
                         },
                         {
                             "name": "5b \u2013 Large Auditorium",
+                            "chair": "Jayden Macklin-Cordes",
                             "extra": null
                         },
                         {
                             "name": "5c \u2013 Small Auditorium",
+                            "chair": "Jonas N\u00f6lle",
                             "extra": null
                         }
                     ],
@@ -381,14 +396,17 @@ var scheduleData = [
                     "tracks": [
                         {
                             "name": "6a \u2013 Concert Hall",
+                            "chair": "Andreas Baumann",
                             "extra": null
                         },
                         {
                             "name": "6b \u2013 Large Auditorium",
+                            "chair": "I-Ying Lin",
                             "extra": null
                         },
                         {
                             "name": "6c \u2013 Small Auditorium",
+                            "chair": "Robin Ryder",
                             "extra": null
                         }
                     ],
@@ -443,14 +461,17 @@ var scheduleData = [
                     "tracks": [
                         {
                             "name": "7a \u2013 Concert Hall",
+                            "chair": "Gonzalo Maestro Paredes",
                             "extra": null
                         },
                         {
                             "name": "7b \u2013 Large Auditorium",
+                            "chair": "Heidi Lyn",
                             "extra": null
                         },
                         {
                             "name": "7c \u2013 Small Auditorium",
+                            "chair": "Piotr Podlipniak",
                             "extra": null
                         }
                     ],
@@ -505,14 +526,17 @@ var scheduleData = [
                     "tracks": [
                         {
                             "name": "8a \u2013 Concert Hall",
+                            "chair": "Conor Houghton",
                             "extra": null
                         },
                         {
                             "name": "8b \u2013 Large Auditorium",
+                            "chair": "Gemma Boleda",
                             "extra": null
                         },
                         {
                             "name": "8c \u2013 Small Auditorium",
+                            "chair": "S\u0142awek Wacewicz",
                             "extra": null
                         }
                     ],
@@ -532,7 +556,7 @@ var scheduleData = [
                             "papers": [
                                 34,
                                 135,
-                                50
+                                61
                             ]
                         },
                         {
@@ -541,7 +565,7 @@ var scheduleData = [
                             "papers": [
                                 35,
                                 136,
-                                61
+                                null
                             ]
                         }
                     ]
@@ -610,14 +634,17 @@ var scheduleData = [
                     "tracks": [
                         {
                             "name": "9a \u2013 Concert Hall",
+                            "chair": "Ramon Ferrer-i-Cancho",
                             "extra": null
                         },
                         {
                             "name": "9b \u2013 Large Auditorium",
+                            "chair": "Estelle Janin",
                             "extra": null
                         },
                         {
                             "name": "9c \u2013 Small Auditorium",
+                            "chair": "Przemys\u0142aw \u017bywiczy\u0144ski",
                             "extra": null
                         }
                     ],
@@ -626,8 +653,8 @@ var scheduleData = [
                             "startTime": "09:00",
                             "endTime": "09:30",
                             "papers": [
-                                84,
                                 null,
+                                50,
                                 null
                             ]
                         },
@@ -635,18 +662,18 @@ var scheduleData = [
                             "startTime": "09:30",
                             "endTime": "10:00",
                             "papers": [
-                                110,
-                                null,
-                                132
+                                84,
+                                132,
+                                null
                             ]
                         },
                         {
                             "startTime": "10:00",
                             "endTime": "10:30",
                             "papers": [
-                                106,
-                                130,
-                                133
+                                110,
+                                133,
+                                130
                             ]
                         },
                         {
@@ -654,8 +681,8 @@ var scheduleData = [
                             "endTime": "11:00",
                             "papers": [
                                 58,
-                                6,
-                                70
+                                70,
+                                6
                             ]
                         }
                     ]
@@ -681,14 +708,17 @@ var scheduleData = [
                     "tracks": [
                         {
                             "name": "10a \u2013 Concert Hall",
+                            "chair": null,
                             "extra": null
                         },
                         {
                             "name": "10b \u2013 Large Auditorium",
+                            "chair": "Ljiljana Progovac",
                             "extra": null
                         },
                         {
                             "name": "10c \u2013 Small Auditorium",
+                            "chair": null,
                             "extra": null
                         }
                     ],
@@ -761,14 +791,17 @@ var scheduleData = [
                     "tracks": [
                         {
                             "name": "11a \u2013 Concert Hall",
+                            "chair": null,
                             "extra": null
                         },
                         {
                             "name": "11b \u2013 Large Auditorium",
+                            "chair": "Stefan Hartmann",
                             "extra": null
                         },
                         {
                             "name": "11c \u2013 Small Auditorium",
+                            "chair": null,
                             "extra": null
                         }
                     ],

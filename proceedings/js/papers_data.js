@@ -73,7 +73,7 @@ var papersData = {
         "weburl": "paper.html?nr=6",
         "date": "Friday, 10 April 2026",
         "time": "10:30",
-        "location": "Large Auditorium (Track b)",
+        "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
@@ -1680,14 +1680,14 @@ var papersData = {
             "language evolution"
         ],
         "weburl": "paper.html?nr=50",
-        "date": "Thursday, 9 April 2026",
-        "time": "17:00",
-        "location": "Small Auditorium (Track c)",
+        "date": "Friday, 10 April 2026",
+        "time": "09:00",
+        "location": "Large Auditorium (Track b)",
         "prestype": "talk",
         "license": "CC BY-NC-ND 4.0",
-        "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "17:00",
-        "calendar_endTime": "17:30",
+        "calendar_startDate": "2026-04-10",
+        "calendar_startTime": "09:00",
+        "calendar_endTime": "09:30",
         "extra": null
     },
     "51": {
@@ -2108,13 +2108,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=61",
         "date": "Thursday, 9 April 2026",
-        "time": "17:30",
+        "time": "17:00",
         "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-09",
-        "calendar_startTime": "17:30",
-        "calendar_endTime": "18:00",
+        "calendar_startTime": "17:00",
+        "calendar_endTime": "17:30",
         "extra": null
     },
     "62": {
@@ -2507,7 +2507,7 @@ var papersData = {
         "weburl": "paper.html?nr=70",
         "date": "Friday, 10 April 2026",
         "time": "10:30",
-        "location": "Small Auditorium (Track c)",
+        "location": "Large Auditorium (Track b)",
         "prestype": "talk",
         "license": null,
         "calendar_startDate": "2026-04-10",
@@ -2926,13 +2926,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=84",
         "date": "Friday, 10 April 2026",
-        "time": "09:00",
+        "time": "09:30",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
-        "calendar_startTime": "09:00",
-        "calendar_endTime": "09:30",
+        "calendar_startTime": "09:30",
+        "calendar_endTime": "10:00",
         "extra": null
     },
     "85": {
@@ -3707,53 +3707,6 @@ var papersData = {
         "calendar_endTime": "12:00",
         "extra": null
     },
-    "106": {
-        "title": "The conceptual origins of adjective ordering preferences: Evidence from silent gesture",
-        "authors": [
-            "Ruizhe Zhou",
-            "Wei Ding",
-            "Annie Holtz",
-            "Simon Kirby",
-            "Jennifer Culbertson"
-        ],
-        "correspemails": [
-            "ruizhezhou1999@gmail.com",
-            null,
-            null,
-            null,
-            null
-        ],
-        "download": "papers/evolang16_paper_106.pdf",
-        "supplementaryMaterial": null,
-        "citations": {
-            "bibtex": "bib/evolang16_106.bib",
-            "ris": "bib/evolang16_106.ris",
-            "copy": "Zhou, R., Ding, W., Holtz, A., Kirby, S. & Culbertson, J. (2026). The conceptual origins of adjective ordering preferences: Evidence from silent gesture. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
-        },
-        "sharing": {
-            "bluesky": "https://bsky.app/intent/compose?text=Check+out+this+paper+from+Evolang+XVI%3A+%22The+conceptual+origins+of+adjective+ordering+preferences%3A+Evidence+from+silent+gesture%22%0Ahttps%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D106%0A%23EvolangXVI",
-            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D106&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22The+conceptual+origins+of+adjective+ordering+preferences%3A+Evidence+from+silent+gesture%22+%23EvolangXVI",
-            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22The+conceptual+origins+of+adjective+ordering+preferences%3A+Evidence+from+silent+gesture%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D106"
-        },
-        "summary": "It is widely suggested that within the noun phrase, adjectives are ordered in some universal way: \nlanguages that place adjectives before the noun tend to follow the same adjective order as \nEnglish, while languages that place adjectives after the noun tend to have an adjective order \nthat mirrors the English order. Syntactic and psychological accounts have been proposed to \nexplain this universal, but empirical evidence for these accounts have remained sparse. \nBuilding on previous work suggesting that universal nominal modifier ordering can be \nexplained by a preference for mapping conceptual hierarchy to linear word order, two silent \ngesture experiments were conducted to examine whether this can also explain multiple \nadjective ordering preferences. Overall, the results did not provide clear support for this \nconceptual explanation: in the production experiment, participants showed this preference only \nwhen they gestured adjectives prenominally; in the forced-choice experiment, they did not \nshow this preference at all.",
-        "keywords": [
-            "word order",
-            "syntactic universals",
-            "cognitive biases",
-            "conceptual structure",
-            "silent gesture"
-        ],
-        "weburl": "paper.html?nr=106",
-        "date": "Friday, 10 April 2026",
-        "time": "10:00",
-        "location": "Concert Hall (Track a)",
-        "prestype": "talk",
-        "license": "CC BY-NC-ND 4.0",
-        "calendar_startDate": "2026-04-10",
-        "calendar_startTime": "10:00",
-        "calendar_endTime": "10:30",
-        "extra": null
-    },
     "107": {
         "title": "Ontogenesis of 'language-like' brain specialization in baboons and its links to gesture",
         "authors": [
@@ -3919,13 +3872,13 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=110",
         "date": "Friday, 10 April 2026",
-        "time": "09:30",
+        "time": "10:00",
         "location": "Concert Hall (Track a)",
         "prestype": "talk",
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
-        "calendar_startTime": "09:30",
-        "calendar_endTime": "10:00",
+        "calendar_startTime": "10:00",
+        "calendar_endTime": "10:30",
         "extra": null
     },
     "111": {
@@ -4604,7 +4557,7 @@ var papersData = {
         "weburl": "paper.html?nr=130",
         "date": "Friday, 10 April 2026",
         "time": "10:00",
-        "location": "Large Auditorium (Track b)",
+        "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
@@ -4689,7 +4642,7 @@ var papersData = {
         "weburl": "paper.html?nr=132",
         "date": "Friday, 10 April 2026",
         "time": "09:30",
-        "location": "Small Auditorium (Track c)",
+        "location": "Large Auditorium (Track b)",
         "prestype": "talk",
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",
@@ -4728,7 +4681,7 @@ var papersData = {
         "weburl": "paper.html?nr=133",
         "date": "Friday, 10 April 2026",
         "time": "10:00",
-        "location": "Small Auditorium (Track c)",
+        "location": "Large Auditorium (Track b)",
         "prestype": "talk",
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2026-04-10",

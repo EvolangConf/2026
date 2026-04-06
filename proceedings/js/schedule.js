@@ -82,6 +82,18 @@ function talkRow(talks, slot) {
                             )
                         );
 
+        if (talks.tracks[i].chair != null) {
+            track_p_xs.append(
+                $("<br>")
+            ).append(
+                $("<div>", {"class": "authsub", "style": "margin-top: 0; text-transform: none;"}).append(
+                    $("<i>").text(
+                        "Chair: " + talks.tracks[i].chair
+                    )
+                )
+            );
+        }
+
         if (talks.tracks[i].extra != null) {
             track_p_xs.append(
                 $("<br>")
@@ -134,6 +146,18 @@ function talksRows(talks) {
                 track.name
             )
         );
+
+        if (track.chair != null) {
+            p.append(
+                $("<br>")
+            ).append(
+                $("<div>", {"class": "authsub", "style": "margin-top: 0; text-transform: none;"}).append(
+                    $("<i>").text(
+                        "Chair: " + track.chair
+                    )
+                )
+            );
+        }
 
         if (track.extra != null) {
             p.append(
