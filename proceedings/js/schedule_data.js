@@ -565,7 +565,7 @@ var scheduleData = [
                             "papers": [
                                 35,
                                 136,
-                                null
+                                50
                             ]
                         }
                     ]
@@ -654,7 +654,7 @@ var scheduleData = [
                             "endTime": "09:30",
                             "papers": [
                                 null,
-                                50,
+                                null,
                                 null
                             ]
                         },

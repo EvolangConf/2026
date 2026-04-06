@@ -1680,14 +1680,14 @@ var papersData = {
             "language evolution"
         ],
         "weburl": "paper.html?nr=50",
-        "date": "Friday, 10 April 2026",
-        "time": "09:00",
-        "location": "Large Auditorium (Track b)",
+        "date": "Thursday, 9 April 2026",
+        "time": "17:30",
+        "location": "Small Auditorium (Track c)",
         "prestype": "talk",
         "license": "CC BY-NC-ND 4.0",
-        "calendar_startDate": "2026-04-10",
-        "calendar_startTime": "09:00",
-        "calendar_endTime": "09:30",
+        "calendar_startDate": "2026-04-09",
+        "calendar_startTime": "17:30",
+        "calendar_endTime": "18:00",
         "extra": null
     },
     "51": {
