@@ -639,12 +639,12 @@ var scheduleData = [
                         },
                         {
                             "name": "9b \u2013 Large Auditorium",
-                            "chair": "Estelle Janin",
+                            "chair": "Przemys\u0142aw \u017bywiczy\u0144ski",
                             "extra": null
                         },
                         {
                             "name": "9c \u2013 Small Auditorium",
-                            "chair": "Przemys\u0142aw \u017bywiczy\u0144ski",
+                            "chair": "Estelle Janin",
                             "extra": null
                         }
                     ],
@@ -663,8 +663,8 @@ var scheduleData = [
                             "endTime": "10:00",
                             "papers": [
                                 84,
-                                132,
-                                null
+                                null,
+                                132
                             ]
                         },
                         {
@@ -672,8 +672,8 @@ var scheduleData = [
                             "endTime": "10:30",
                             "papers": [
                                 110,
-                                133,
-                                130
+                                130,
+                                133
                             ]
                         },
                         {
@@ -681,8 +681,8 @@ var scheduleData = [
                             "endTime": "11:00",
                             "papers": [
                                 58,
-                                70,
-                                6
+                                6,
+                                70
                             ]
                         }
                     ]
