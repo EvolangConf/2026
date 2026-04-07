@@ -87,7 +87,7 @@ $(document).ready(function() {
 
 		calendar_html = $('#calendarButtonDiv')
 		calendar_html.empty();
-		if (paperInfo.calendar_startDate !== null) {
+		if (paperInfo.calendar_startDate != null) {
 			calendar_html.html(
 				`<add-to-calendar-button
 					name="Evolang XVI: ` + escape(paperInfo.title) +  `"
