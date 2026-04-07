@@ -291,8 +291,8 @@ var papersData = {
             "typology"
         ],
         "weburl": "paper.html?nr=13",
-        "date": "Thursday, 9 April 2026",
-        "time": "10:15",
+        "date": "Tuesday, 7 April 2026",
+        "time": "13:30",
         "location": "The Ramada Trimontium Hotel",
         "prestype": "talk",
         "license": "CC BY-NC-ND 4.0",
@@ -2544,14 +2544,14 @@ var papersData = {
             "sign language acquisition"
         ],
         "weburl": "paper.html?nr=71",
-        "date": "Wednesday, 8 April 2026",
-        "time": "10:15",
-        "location": "Concert Hall (Track a)",
+        "date": "-",
+        "time": "-",
+        "location": "Cancelled",
         "prestype": "talk",
         "license": "CC BY-NC-ND 4.0",
-        "calendar_startDate": "2026-04-08",
-        "calendar_startTime": "10:15",
-        "calendar_endTime": "10:45",
+        "calendar_startDate": null,
+        "calendar_startTime": null,
+        "calendar_endTime": null,
         "extra": null
     },
     "72": {
