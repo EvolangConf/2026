@@ -634,12 +634,12 @@ var scheduleData = [
                     "tracks": [
                         {
                             "name": "9a \u2013 Concert Hall",
-                            "chair": "Ramon Ferrer-i-Cancho",
+                            "chair": "Przemys\u0142aw \u017bywiczy\u0144ski",
                             "extra": null
                         },
                         {
                             "name": "9b \u2013 Large Auditorium",
-                            "chair": "Przemys\u0142aw \u017bywiczy\u0144ski",
+                            "chair": "Ramon Ferrer-i-Cancho",
                             "extra": null
                         },
                         {
@@ -708,7 +708,7 @@ var scheduleData = [
                     "tracks": [
                         {
                             "name": "10a \u2013 Concert Hall",
-                            "chair": null,
+                            "chair": "Marta Sibierska",
                             "extra": null
                         },
                         {
