@@ -87,24 +87,26 @@ $(document).ready(function() {
 
 		calendar_html = $('#calendarButtonDiv')
 		calendar_html.empty();
-		calendar_html.html(
-			`<add-to-calendar-button
-				name="Evolang XVI: ` + escape(paperInfo.title) +  `"
-				description="` + escape(calendar_description) + `"
-				startDate="` + escape(paperInfo.calendar_startDate) + `"
-				startTime="` + escape(paperInfo.calendar_startTime) + `"
-				endTime="` + escape(paperInfo.calendar_endTime) + `"
-				timeZone="Europe/Sofia"
-				location="` + escape(paperInfo.location) + `"
-				options="'Apple','Google','Outlook.com','Yahoo','MicrosoftTeams','Microsoft365','iCal'"
-				listStyle="dropup-static"
-				buttonStyle="round"
-				hideBackground
-				hideCheckmark
-				size="0"
-				pastDateHandling="disable"
-			></add-to-calendar-button>`
-		);
+		if (paperInfo.calendar_startDate !== null) {
+			calendar_html.html(
+				`<add-to-calendar-button
+					name="Evolang XVI: ` + escape(paperInfo.title) +  `"
+					description="` + escape(calendar_description) + `"
+					startDate="` + escape(paperInfo.calendar_startDate) + `"
+					startTime="` + escape(paperInfo.calendar_startTime) + `"
+					endTime="` + escape(paperInfo.calendar_endTime) + `"
+					timeZone="Europe/Sofia"
+					location="` + escape(paperInfo.location) + `"
+					options="'Apple','Google','Outlook.com','Yahoo','MicrosoftTeams','Microsoft365','iCal'"
+					listStyle="dropup-static"
+					buttonStyle="round"
+					hideBackground
+					hideCheckmark
+					size="0"
+					pastDateHandling="disable"
+				></add-to-calendar-button>`
+			);
+		}
 
 		$('[data-toggle="tooltip"]').tooltip();
 
