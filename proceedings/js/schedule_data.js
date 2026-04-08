@@ -446,7 +446,7 @@ var scheduleData = [
             },
             {
                 "startTime": "13:15",
-                "endTime": "14:30",
+                "endTime": "15:00",
                 "event": "Buffet lunch",
                 "talks": null,
                 "url": "https://sites.google.com/york.ac.uk/evolang2026/venue",
@@ -454,8 +454,8 @@ var scheduleData = [
                 "extra": null
             },
             {
-                "startTime": "14:30",
-                "endTime": "16:00",
+                "startTime": "15:00",
+                "endTime": "16:30",
                 "event": "Session 7",
                 "talks": {
                     "tracks": [
@@ -477,8 +477,8 @@ var scheduleData = [
                     ],
                     "slots": [
                         {
-                            "startTime": "14:30",
-                            "endTime": "15:00",
+                            "startTime": "15:00",
+                            "endTime": "15:30",
                             "papers": [
                                 139,
                                 119,
@@ -486,8 +486,8 @@ var scheduleData = [
                             ]
                         },
                         {
-                            "startTime": "15:00",
-                            "endTime": "15:30",
+                            "startTime": "15:30",
+                            "endTime": "16:00",
                             "papers": [
                                 126,
                                 129,
@@ -495,8 +495,8 @@ var scheduleData = [
                             ]
                         },
                         {
-                            "startTime": "15:30",
-                            "endTime": "16:00",
+                            "startTime": "16:00",
+                            "endTime": "16:30",
                             "papers": [
                                 142,
                                 143,
@@ -510,8 +510,8 @@ var scheduleData = [
                 "extra": null
             },
             {
-                "startTime": "16:00",
-                "endTime": "16:30",
+                "startTime": "16:30",
+                "endTime": "17:00",
                 "event": "Coffee break",
                 "talks": null,
                 "url": null,
@@ -519,8 +519,8 @@ var scheduleData = [
                 "extra": null
             },
             {
-                "startTime": "16:30",
-                "endTime": "18:00",
+                "startTime": "17:00",
+                "endTime": "18:30",
                 "event": "Session 8",
                 "talks": {
                     "tracks": [
@@ -542,8 +542,8 @@ var scheduleData = [
                     ],
                     "slots": [
                         {
-                            "startTime": "16:30",
-                            "endTime": "17:00",
+                            "startTime": "17:00",
+                            "endTime": "17:30",
                             "papers": [
                                 33,
                                 64,
@@ -551,8 +551,8 @@ var scheduleData = [
                             ]
                         },
                         {
-                            "startTime": "17:00",
-                            "endTime": "17:30",
+                            "startTime": "17:30",
+                            "endTime": "18:00",
                             "papers": [
                                 34,
                                 135,
@@ -560,8 +560,8 @@ var scheduleData = [
                             ]
                         },
                         {
-                            "startTime": "17:30",
-                            "endTime": "18:00",
+                            "startTime": "18:00",
+                            "endTime": "18:30",
                             "papers": [
                                 35,
                                 136,
@@ -575,8 +575,8 @@ var scheduleData = [
                 "extra": null
             },
             {
-                "startTime": "18:00",
-                "endTime": "19:00",
+                "startTime": "18:30",
+                "endTime": "19:30",
                 "event": "Business meeting",
                 "talks": null,
                 "url": null,
