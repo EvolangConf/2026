@@ -718,7 +718,7 @@ var scheduleData = [
                         },
                         {
                             "name": "10c \u2013 Small Auditorium",
-                            "chair": null,
+                            "chair": "Stefan Hartmann",
                             "extra": null
                         }
                     ],
