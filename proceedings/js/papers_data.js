@@ -5367,5 +5367,43 @@ var papersData = {
         "calendar_startTime": "12:45",
         "calendar_endTime": "13:15",
         "extra": null
+    },
+    "150": {
+        "title": "Linguistic and semantic differences in academic writing",
+        "authors": [
+            "Vasfiye Ge\u00e7kin"
+        ],
+        "correspemails": [
+            "vasfiye.geckin@idu.edu.tr"
+        ],
+        "download": null,
+        "supplementaryMaterial": null,
+        "citations": {
+            "bibtex": "bib/evolang16_150.bib",
+            "ris": "bib/evolang16_150.ris",
+            "copy": "Ge\u00e7kin, V. (2026). Linguistic and semantic differences in academic writing. In Hartmann, S., Sibierska, M., Fr\u00f6hlich, M., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., N\u00f6lle, J., Pleyer, M., Wacewicz, S. & \u017bywiczy\u0144ski, P. (Eds.): The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI). doi:10.17617/2.3696655."
+        },
+        "sharing": {
+            "bluesky": "https://bsky.app/intent/compose?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Linguistic+and+semantic+differences+in+academic+writing%22%0Ahttps%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D150%0A%23EvolangXVI",
+            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D150&quote=Check+out+this+paper+from+Evolang+XVI%3A+%22Linguistic+and+semantic+differences+in+academic+writing%22+%23EvolangXVI",
+            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XVI%3A+%22Linguistic+and+semantic+differences+in+academic+writing%22&hashtags=EvolangXVI&url=https%3A%2F%2Fevolangconf.github.io%2F2026%2Fproceedings%2Fpaper.html%3Fnr%3D150"
+        },
+        "summary": "This study investigates differences in lexical and semantic complexity between native (L1) and non-native (L2) English writers by analysing ten opinion essays. Five native speakers of English in the United States and five advanced Turkish learners of English in T\u00fcrkiye wrote 40-minute essays, which were examined using a range of computational indices, including lexical diversity, lexical sophistication, LSA-based semantic cohesion, semantic diversity, idea density, referential cohesion, and LDA-derived topic coherence. Results show that L1 writers demonstrated greater lexical diversity and sophistication, whereas L2 writers relied more heavily on repeated lexical items, reflected in higher term frequency. Semantically, L2 texts exhibited significantly higher adjacent LSA similarity, indicating tighter local cohesion but more repetitive semantic movement. No significant group differences emerged for semantic diversity, idea density, or topic coherence. Overall, the findings reveal distinct lexical\u2013semantic profiles and offer implications for assessing linguistic complexity in L2 academic writing.",
+        "keywords": [
+            "complexity",
+            "academic writing",
+            "semantic cohesion",
+            "lexical diversity"
+        ],
+        "weburl": "paper.html?nr=150",
+        "date": "Wednesday, 8 April 2026",
+        "time": "18:30",
+        "location": "The House of Culture \"Boris Hristov\"",
+        "prestype": "poster",
+        "license": null,
+        "calendar_startDate": "2026-04-08",
+        "calendar_startTime": "18:30",
+        "calendar_endTime": "19:00",
+        "extra": null
     }
 }
